@@ -4,6 +4,7 @@ This is a mac port of the excellent work provided [here](https://vilimpoc.org/re
 Compile the files with:
 
 `gcc -o send-data send-data.c -Wall`
+
 `gcc -o ku-latency ku-latency.c -Wall`
 
 See the link above for instructions of use.
