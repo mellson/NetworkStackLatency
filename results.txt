@@ -1,0 +1,3656 @@
+Listening to: 192.168.1.13:1025
+Starting main loop.
+
+time_kernel                  : 1430719534.151580
+time_user                    : 1430719534.151637
+Total Average                : 57/1 = 57.00 us
+Rolling Average (32 samples) : 1.78 us
+
+time_kernel                  : 1430719535.228094
+time_user                    : 1430719535.228137
+Total Average                : 100/2 = 50.00 us
+Rolling Average (32 samples) : 3.12 us
+
+time_kernel                  : 1430719536.251537
+time_user                    : 1430719536.251577
+Total Average                : 140/3 = 46.67 us
+Rolling Average (32 samples) : 4.38 us
+
+time_kernel                  : 1430719537.276054
+time_user                    : 1430719537.276115
+Total Average                : 201/4 = 50.25 us
+Rolling Average (32 samples) : 6.28 us
+
+time_kernel                  : 1430719538.300054
+time_user                    : 1430719538.300098
+Total Average                : 245/5 = 49.00 us
+Rolling Average (32 samples) : 7.66 us
+
+time_kernel                  : 1430719539.323673
+time_user                    : 1430719539.323719
+Total Average                : 291/6 = 48.50 us
+Rolling Average (32 samples) : 9.09 us
+
+time_kernel                  : 1430719540.348020
+time_user                    : 1430719540.348060
+Total Average                : 331/7 = 47.29 us
+Rolling Average (32 samples) : 10.34 us
+
+time_kernel                  : 1430719541.166612
+time_user                    : 1430719541.166671
+Total Average                : 390/8 = 48.75 us
+Rolling Average (32 samples) : 12.19 us
+
+time_kernel                  : 1430719542.191245
+time_user                    : 1430719542.191302
+Total Average                : 447/9 = 49.67 us
+Rolling Average (32 samples) : 13.97 us
+
+time_kernel                  : 1430719543.215187
+time_user                    : 1430719543.215244
+Total Average                : 504/10 = 50.40 us
+Rolling Average (32 samples) : 15.75 us
+
+time_kernel                  : 1430719544.239228
+time_user                    : 1430719544.239289
+Total Average                : 565/11 = 51.36 us
+Rolling Average (32 samples) : 17.66 us
+
+time_kernel                  : 1430719545.263197
+time_user                    : 1430719545.263257
+Total Average                : 625/12 = 52.08 us
+Rolling Average (32 samples) : 19.53 us
+
+time_kernel                  : 1430719546.154050
+time_user                    : 1430719546.154113
+Total Average                : 688/13 = 52.92 us
+Rolling Average (32 samples) : 21.50 us
+
+time_kernel                  : 1430719547.311239
+time_user                    : 1430719547.311278
+Total Average                : 727/14 = 51.93 us
+Rolling Average (32 samples) : 22.72 us
+
+time_kernel                  : 1430719548.335239
+time_user                    : 1430719548.335300
+Total Average                : 788/15 = 52.53 us
+Rolling Average (32 samples) : 24.62 us
+
+time_kernel                  : 1430719549.359237
+time_user                    : 1430719549.359283
+Total Average                : 834/16 = 52.12 us
+Rolling Average (32 samples) : 26.06 us
+
+time_kernel                  : 1430719550.178435
+time_user                    : 1430719550.178477
+Total Average                : 876/17 = 51.53 us
+Rolling Average (32 samples) : 27.38 us
+
+time_kernel                  : 1430719551.202635
+time_user                    : 1430719551.202675
+Total Average                : 916/18 = 50.89 us
+Rolling Average (32 samples) : 28.62 us
+
+time_kernel                  : 1430719552.226694
+time_user                    : 1430719552.226759
+Total Average                : 981/19 = 51.63 us
+Rolling Average (32 samples) : 30.66 us
+
+time_kernel                  : 1430719553.154668
+time_user                    : 1430719553.154732
+Total Average                : 1045/20 = 52.25 us
+Rolling Average (32 samples) : 32.66 us
+
+time_kernel                  : 1430719554.274330
+time_user                    : 1430719554.274390
+Total Average                : 1105/21 = 52.62 us
+Rolling Average (32 samples) : 34.53 us
+
+time_kernel                  : 1430719555.298233
+time_user                    : 1430719555.298252
+Total Average                : 1124/22 = 51.09 us
+Rolling Average (32 samples) : 35.12 us
+
+time_kernel                  : 1430719556.322406
+time_user                    : 1430719556.322468
+Total Average                : 1186/23 = 51.57 us
+Rolling Average (32 samples) : 37.06 us
+
+time_kernel                  : 1430719557.346345
+time_user                    : 1430719557.346384
+Total Average                : 1225/24 = 51.04 us
+Rolling Average (32 samples) : 38.28 us
+
+time_kernel                  : 1430719558.165724
+time_user                    : 1430719558.165784
+Total Average                : 1285/25 = 51.40 us
+Rolling Average (32 samples) : 40.16 us
+
+time_kernel                  : 1430719559.189566
+time_user                    : 1430719559.189627
+Total Average                : 1346/26 = 51.77 us
+Rolling Average (32 samples) : 42.06 us
+
+time_kernel                  : 1430719560.213641
+time_user                    : 1430719560.213692
+Total Average                : 1397/27 = 51.74 us
+Rolling Average (32 samples) : 43.66 us
+
+time_kernel                  : 1430719561.237698
+time_user                    : 1430719561.237737
+Total Average                : 1436/28 = 51.29 us
+Rolling Average (32 samples) : 44.88 us
+
+time_kernel                  : 1430719562.261568
+time_user                    : 1430719562.261608
+Total Average                : 1476/29 = 50.90 us
+Rolling Average (32 samples) : 46.12 us
+
+time_kernel                  : 1430719563.285587
+time_user                    : 1430719563.285629
+Total Average                : 1518/30 = 50.60 us
+Rolling Average (32 samples) : 47.44 us
+
+time_kernel                  : 1430719564.309590
+time_user                    : 1430719564.309650
+Total Average                : 1578/31 = 50.90 us
+Rolling Average (32 samples) : 49.31 us
+
+time_kernel                  : 1430719565.333593
+time_user                    : 1430719565.333655
+Total Average                : 1640/32 = 51.25 us
+Rolling Average (32 samples) : 51.25 us
+
+time_kernel                  : 1430719566.308932
+time_user                    : 1430719566.308976
+Total Average                : 1684/33 = 51.03 us
+Rolling Average (32 samples) : 50.84 us
+
+time_kernel                  : 1430719567.176767
+time_user                    : 1430719567.176825
+Total Average                : 1742/34 = 51.24 us
+Rolling Average (32 samples) : 51.31 us
+
+time_kernel                  : 1430719568.200889
+time_user                    : 1430719568.200948
+Total Average                : 1801/35 = 51.46 us
+Rolling Average (32 samples) : 51.91 us
+
+time_kernel                  : 1430719569.234291
+time_user                    : 1430719569.234321
+Total Average                : 1831/36 = 50.86 us
+Rolling Average (32 samples) : 50.94 us
+
+time_kernel                  : 1430719570.248806
+time_user                    : 1430719570.248865
+Total Average                : 1890/37 = 51.08 us
+Rolling Average (32 samples) : 51.41 us
+
+time_kernel                  : 1430719571.272722
+time_user                    : 1430719571.272780
+Total Average                : 1948/38 = 51.26 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430719572.296653
+time_user                    : 1430719572.296711
+Total Average                : 2006/39 = 51.44 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719573.314515
+time_user                    : 1430719573.314543
+Total Average                : 2034/40 = 50.85 us
+Rolling Average (32 samples) : 51.38 us
+
+time_kernel                  : 1430719574.344871
+time_user                    : 1430719574.344929
+Total Average                : 2092/41 = 51.02 us
+Rolling Average (32 samples) : 51.41 us
+
+time_kernel                  : 1430719575.163964
+time_user                    : 1430719575.164019
+Total Average                : 2147/42 = 51.12 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430719576.187558
+time_user                    : 1430719576.187602
+Total Average                : 2191/43 = 50.95 us
+Rolling Average (32 samples) : 50.81 us
+
+time_kernel                  : 1430719577.212008
+time_user                    : 1430719577.212080
+Total Average                : 2263/44 = 51.43 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430719578.235926
+time_user                    : 1430719578.235966
+Total Average                : 2303/45 = 51.18 us
+Rolling Average (32 samples) : 50.47 us
+
+time_kernel                  : 1430719579.260412
+time_user                    : 1430719579.260452
+Total Average                : 2343/46 = 50.93 us
+Rolling Average (32 samples) : 50.50 us
+
+time_kernel                  : 1430719580.283911
+time_user                    : 1430719580.283971
+Total Average                : 2403/47 = 51.13 us
+Rolling Average (32 samples) : 50.47 us
+
+time_kernel                  : 1430719581.307962
+time_user                    : 1430719581.308021
+Total Average                : 2462/48 = 51.29 us
+Rolling Average (32 samples) : 50.88 us
+
+time_kernel                  : 1430719582.331713
+time_user                    : 1430719582.331737
+Total Average                : 2486/49 = 50.73 us
+Rolling Average (32 samples) : 50.31 us
+
+time_kernel                  : 1430719583.355873
+time_user                    : 1430719583.355934
+Total Average                : 2547/50 = 50.94 us
+Rolling Average (32 samples) : 50.97 us
+
+time_kernel                  : 1430719584.178609
+time_user                    : 1430719584.178652
+Total Average                : 2590/51 = 50.78 us
+Rolling Average (32 samples) : 50.28 us
+
+time_kernel                  : 1430719585.198610
+time_user                    : 1430719585.198652
+Total Average                : 2632/52 = 50.62 us
+Rolling Average (32 samples) : 49.59 us
+
+time_kernel                  : 1430719586.223244
+time_user                    : 1430719586.223305
+Total Average                : 2693/53 = 50.81 us
+Rolling Average (32 samples) : 49.62 us
+
+time_kernel                  : 1430719587.247049
+time_user                    : 1430719587.247109
+Total Average                : 2753/54 = 50.98 us
+Rolling Average (32 samples) : 50.91 us
+
+time_kernel                  : 1430719588.270804
+time_user                    : 1430719588.270848
+Total Average                : 2797/55 = 50.85 us
+Rolling Average (32 samples) : 50.34 us
+
+time_kernel                  : 1430719589.295059
+time_user                    : 1430719589.295122
+Total Average                : 2860/56 = 51.07 us
+Rolling Average (32 samples) : 51.09 us
+
+time_kernel                  : 1430719590.319055
+time_user                    : 1430719590.319116
+Total Average                : 2921/57 = 51.25 us
+Rolling Average (32 samples) : 51.12 us
+
+time_kernel                  : 1430719591.342678
+time_user                    : 1430719591.342726
+Total Average                : 2969/58 = 51.19 us
+Rolling Average (32 samples) : 50.72 us
+
+time_kernel                  : 1430719592.162272
+time_user                    : 1430719592.162333
+Total Average                : 3030/59 = 51.36 us
+Rolling Average (32 samples) : 51.03 us
+
+time_kernel                  : 1430719593.391209
+time_user                    : 1430719593.391266
+Total Average                : 3087/60 = 51.45 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430719594.210256
+time_user                    : 1430719594.210314
+Total Average                : 3145/61 = 51.56 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430719595.234286
+time_user                    : 1430719595.234346
+Total Average                : 3205/62 = 51.69 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719596.258263
+time_user                    : 1430719596.258308
+Total Average                : 3250/63 = 51.59 us
+Rolling Average (32 samples) : 52.25 us
+
+time_kernel                  : 1430719597.282402
+time_user                    : 1430719597.282437
+Total Average                : 3285/64 = 51.33 us
+Rolling Average (32 samples) : 51.41 us
+
+time_kernel                  : 1430719598.306187
+time_user                    : 1430719598.306232
+Total Average                : 3330/65 = 51.23 us
+Rolling Average (32 samples) : 51.44 us
+
+time_kernel                  : 1430719599.330309
+time_user                    : 1430719599.330367
+Total Average                : 3388/66 = 51.33 us
+Rolling Average (32 samples) : 51.44 us
+
+time_kernel                  : 1430719600.354278
+time_user                    : 1430719600.354341
+Total Average                : 3451/67 = 51.51 us
+Rolling Average (32 samples) : 51.56 us
+
+time_kernel                  : 1430719601.173604
+time_user                    : 1430719601.173650
+Total Average                : 3497/68 = 51.43 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430719602.197611
+time_user                    : 1430719602.197675
+Total Average                : 3561/69 = 51.61 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430719603.221525
+time_user                    : 1430719603.221585
+Total Average                : 3621/70 = 51.73 us
+Rolling Average (32 samples) : 52.28 us
+
+time_kernel                  : 1430719604.247219
+time_user                    : 1430719604.247278
+Total Average                : 3680/71 = 51.83 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719605.269676
+time_user                    : 1430719605.269737
+Total Average                : 3741/72 = 51.96 us
+Rolling Average (32 samples) : 53.34 us
+
+time_kernel                  : 1430719606.293294
+time_user                    : 1430719606.293363
+Total Average                : 3810/73 = 52.19 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719607.317414
+time_user                    : 1430719607.317479
+Total Average                : 3875/74 = 52.36 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719608.315107
+time_user                    : 1430719608.315153
+Total Average                : 3921/75 = 52.28 us
+Rolling Average (32 samples) : 54.06 us
+
+time_kernel                  : 1430719609.160874
+time_user                    : 1430719609.160918
+Total Average                : 3965/76 = 52.17 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430719610.184616
+time_user                    : 1430719610.184659
+Total Average                : 4008/77 = 52.05 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719611.208660
+time_user                    : 1430719611.208718
+Total Average                : 4066/78 = 52.13 us
+Rolling Average (32 samples) : 53.84 us
+
+time_kernel                  : 1430719612.153722
+time_user                    : 1430719612.153774
+Total Average                : 4118/79 = 52.13 us
+Rolling Average (32 samples) : 53.59 us
+
+time_kernel                  : 1430719613.153976
+time_user                    : 1430719613.154035
+Total Average                : 4177/80 = 52.21 us
+Rolling Average (32 samples) : 53.59 us
+
+time_kernel                  : 1430719614.154045
+time_user                    : 1430719614.154097
+Total Average                : 4229/81 = 52.21 us
+Rolling Average (32 samples) : 54.47 us
+
+time_kernel                  : 1430719615.304637
+time_user                    : 1430719615.304695
+Total Average                : 4287/82 = 52.28 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430719616.329269
+time_user                    : 1430719616.329326
+Total Average                : 4344/83 = 52.34 us
+Rolling Average (32 samples) : 54.81 us
+
+time_kernel                  : 1430719617.151264
+time_user                    : 1430719617.151316
+Total Average                : 4396/84 = 52.33 us
+Rolling Average (32 samples) : 55.12 us
+
+time_kernel                  : 1430719618.172048
+time_user                    : 1430719618.172109
+Total Average                : 4457/85 = 52.44 us
+Rolling Average (32 samples) : 55.12 us
+
+time_kernel                  : 1430719619.195720
+time_user                    : 1430719619.195779
+Total Average                : 4516/86 = 52.51 us
+Rolling Average (32 samples) : 55.09 us
+
+time_kernel                  : 1430719620.219943
+time_user                    : 1430719620.219991
+Total Average                : 4564/87 = 52.46 us
+Rolling Average (32 samples) : 55.22 us
+
+time_kernel                  : 1430719621.243723
+time_user                    : 1430719621.243780
+Total Average                : 4621/88 = 52.51 us
+Rolling Average (32 samples) : 55.03 us
+
+time_kernel                  : 1430719622.267942
+time_user                    : 1430719622.267982
+Total Average                : 4661/89 = 52.37 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430719623.153985
+time_user                    : 1430719623.154037
+Total Average                : 4713/90 = 52.37 us
+Rolling Average (32 samples) : 54.50 us
+
+time_kernel                  : 1430719624.315745
+time_user                    : 1430719624.315804
+Total Average                : 4772/91 = 52.44 us
+Rolling Average (32 samples) : 54.44 us
+
+time_kernel                  : 1430719625.339700
+time_user                    : 1430719625.339731
+Total Average                : 4803/92 = 52.21 us
+Rolling Average (32 samples) : 53.62 us
+
+time_kernel                  : 1430719626.158875
+time_user                    : 1430719626.158935
+Total Average                : 4863/93 = 52.29 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719627.182966
+time_user                    : 1430719627.183002
+Total Average                : 4899/94 = 52.12 us
+Rolling Average (32 samples) : 52.94 us
+
+time_kernel                  : 1430719628.207203
+time_user                    : 1430719628.207242
+Total Average                : 4938/95 = 51.98 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719629.231046
+time_user                    : 1430719629.231124
+Total Average                : 5016/96 = 52.25 us
+Rolling Average (32 samples) : 54.09 us
+
+time_kernel                  : 1430719630.254833
+time_user                    : 1430719630.254893
+Total Average                : 5076/97 = 52.33 us
+Rolling Average (32 samples) : 54.56 us
+
+time_kernel                  : 1430719631.153648
+time_user                    : 1430719631.153700
+Total Average                : 5128/98 = 52.33 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430719632.303071
+time_user                    : 1430719632.303127
+Total Average                : 5184/99 = 52.36 us
+Rolling Average (32 samples) : 54.16 us
+
+time_kernel                  : 1430719633.326863
+time_user                    : 1430719633.326903
+Total Average                : 5224/100 = 52.24 us
+Rolling Average (32 samples) : 53.97 us
+
+time_kernel                  : 1430719634.350812
+time_user                    : 1430719634.350874
+Total Average                : 5286/101 = 52.34 us
+Rolling Average (32 samples) : 53.91 us
+
+time_kernel                  : 1430719635.170117
+time_user                    : 1430719635.170179
+Total Average                : 5348/102 = 52.43 us
+Rolling Average (32 samples) : 53.97 us
+
+time_kernel                  : 1430719636.194030
+time_user                    : 1430719636.194090
+Total Average                : 5408/103 = 52.50 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719637.218079
+time_user                    : 1430719637.218116
+Total Average                : 5445/104 = 52.36 us
+Rolling Average (32 samples) : 53.25 us
+
+time_kernel                  : 1430719638.242181
+time_user                    : 1430719638.242240
+Total Average                : 5504/105 = 52.42 us
+Rolling Average (32 samples) : 52.94 us
+
+time_kernel                  : 1430719639.266170
+time_user                    : 1430719639.266203
+Total Average                : 5537/106 = 52.24 us
+Rolling Average (32 samples) : 51.94 us
+
+time_kernel                  : 1430719640.290366
+time_user                    : 1430719640.290410
+Total Average                : 5581/107 = 52.16 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719641.314143
+time_user                    : 1430719641.314207
+Total Average                : 5645/108 = 52.27 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430719642.338067
+time_user                    : 1430719642.338107
+Total Average                : 5685/109 = 52.16 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430719643.361749
+time_user                    : 1430719643.361794
+Total Average                : 5730/110 = 52.09 us
+Rolling Average (32 samples) : 52.00 us
+
+time_kernel                  : 1430719644.181382
+time_user                    : 1430719644.181444
+Total Average                : 5792/111 = 52.18 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719645.205324
+time_user                    : 1430719645.205386
+Total Average                : 5854/112 = 52.27 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430719646.229194
+time_user                    : 1430719646.229255
+Total Average                : 5915/113 = 52.35 us
+Rolling Average (32 samples) : 52.69 us
+
+time_kernel                  : 1430719647.253249
+time_user                    : 1430719647.253310
+Total Average                : 5976/114 = 52.42 us
+Rolling Average (32 samples) : 52.78 us
+
+time_kernel                  : 1430719648.277182
+time_user                    : 1430719648.277242
+Total Average                : 6036/115 = 52.49 us
+Rolling Average (32 samples) : 52.88 us
+
+time_kernel                  : 1430719649.301224
+time_user                    : 1430719649.301286
+Total Average                : 6098/116 = 52.57 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430719650.325226
+time_user                    : 1430719650.325288
+Total Average                : 6160/117 = 52.65 us
+Rolling Average (32 samples) : 53.22 us
+
+time_kernel                  : 1430719651.349228
+time_user                    : 1430719651.349288
+Total Average                : 6220/118 = 52.71 us
+Rolling Average (32 samples) : 53.25 us
+
+time_kernel                  : 1430719652.168657
+time_user                    : 1430719652.168700
+Total Average                : 6263/119 = 52.63 us
+Rolling Average (32 samples) : 53.09 us
+
+time_kernel                  : 1430719653.192386
+time_user                    : 1430719653.192452
+Total Average                : 6329/120 = 52.74 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430719654.216530
+time_user                    : 1430719654.216590
+Total Average                : 6389/121 = 52.80 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719655.240353
+time_user                    : 1430719655.240397
+Total Average                : 6433/122 = 52.73 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430719656.264453
+time_user                    : 1430719656.264513
+Total Average                : 6493/123 = 52.79 us
+Rolling Average (32 samples) : 53.78 us
+
+time_kernel                  : 1430719657.288433
+time_user                    : 1430719657.288493
+Total Average                : 6553/124 = 52.85 us
+Rolling Average (32 samples) : 54.69 us
+
+time_kernel                  : 1430719658.312414
+time_user                    : 1430719658.312485
+Total Average                : 6624/125 = 52.99 us
+Rolling Average (32 samples) : 55.03 us
+
+time_kernel                  : 1430719659.336471
+time_user                    : 1430719659.336533
+Total Average                : 6686/126 = 53.06 us
+Rolling Average (32 samples) : 55.84 us
+
+time_kernel                  : 1430719660.360411
+time_user                    : 1430719660.360472
+Total Average                : 6747/127 = 53.13 us
+Rolling Average (32 samples) : 56.53 us
+
+time_kernel                  : 1430719661.179943
+time_user                    : 1430719661.179984
+Total Average                : 6788/128 = 53.03 us
+Rolling Average (32 samples) : 55.38 us
+
+time_kernel                  : 1430719662.203862
+time_user                    : 1430719662.203922
+Total Average                : 6848/129 = 53.09 us
+Rolling Average (32 samples) : 55.38 us
+
+time_kernel                  : 1430719663.227765
+time_user                    : 1430719663.227812
+Total Average                : 6895/130 = 53.04 us
+Rolling Average (32 samples) : 55.22 us
+
+time_kernel                  : 1430719664.251613
+time_user                    : 1430719664.251675
+Total Average                : 6957/131 = 53.11 us
+Rolling Average (32 samples) : 55.41 us
+
+time_kernel                  : 1430719665.275640
+time_user                    : 1430719665.275714
+Total Average                : 7031/132 = 53.27 us
+Rolling Average (32 samples) : 56.47 us
+
+time_kernel                  : 1430719666.299630
+time_user                    : 1430719666.299691
+Total Average                : 7092/133 = 53.32 us
+Rolling Average (32 samples) : 56.44 us
+
+time_kernel                  : 1430719667.323612
+time_user                    : 1430719667.323657
+Total Average                : 7137/134 = 53.26 us
+Rolling Average (32 samples) : 55.91 us
+
+time_kernel                  : 1430719668.347577
+time_user                    : 1430719668.347622
+Total Average                : 7182/135 = 53.20 us
+Rolling Average (32 samples) : 55.44 us
+
+time_kernel                  : 1430719669.166255
+time_user                    : 1430719669.166295
+Total Average                : 7222/136 = 53.10 us
+Rolling Average (32 samples) : 55.53 us
+
+time_kernel                  : 1430719670.190824
+time_user                    : 1430719670.190866
+Total Average                : 7264/137 = 53.02 us
+Rolling Average (32 samples) : 55.00 us
+
+time_kernel                  : 1430719671.214777
+time_user                    : 1430719671.214838
+Total Average                : 7325/138 = 53.08 us
+Rolling Average (32 samples) : 55.88 us
+
+time_kernel                  : 1430719672.238841
+time_user                    : 1430719672.238903
+Total Average                : 7387/139 = 53.14 us
+Rolling Average (32 samples) : 56.44 us
+
+time_kernel                  : 1430719673.263128
+time_user                    : 1430719673.263190
+Total Average                : 7449/140 = 53.21 us
+Rolling Average (32 samples) : 56.38 us
+
+time_kernel                  : 1430719674.286788
+time_user                    : 1430719674.286848
+Total Average                : 7509/141 = 53.26 us
+Rolling Average (32 samples) : 57.00 us
+
+time_kernel                  : 1430719675.153325
+time_user                    : 1430719675.153355
+Total Average                : 7539/142 = 53.09 us
+Rolling Average (32 samples) : 56.53 us
+
+time_kernel                  : 1430719676.334690
+time_user                    : 1430719676.334752
+Total Average                : 7601/143 = 53.15 us
+Rolling Average (32 samples) : 56.53 us
+
+time_kernel                  : 1430719677.358751
+time_user                    : 1430719677.358811
+Total Average                : 7661/144 = 53.20 us
+Rolling Average (32 samples) : 56.47 us
+
+time_kernel                  : 1430719678.177909
+time_user                    : 1430719678.177971
+Total Average                : 7723/145 = 53.26 us
+Rolling Average (32 samples) : 56.50 us
+
+time_kernel                  : 1430719679.201925
+time_user                    : 1430719679.201985
+Total Average                : 7783/146 = 53.31 us
+Rolling Average (32 samples) : 56.47 us
+
+time_kernel                  : 1430719680.229475
+time_user                    : 1430719680.229537
+Total Average                : 7845/147 = 53.37 us
+Rolling Average (32 samples) : 56.53 us
+
+time_kernel                  : 1430719681.250065
+time_user                    : 1430719681.250123
+Total Average                : 7903/148 = 53.40 us
+Rolling Average (32 samples) : 56.41 us
+
+time_kernel                  : 1430719682.273950
+time_user                    : 1430719682.274014
+Total Average                : 7967/149 = 53.47 us
+Rolling Average (32 samples) : 56.47 us
+
+time_kernel                  : 1430719683.297581
+time_user                    : 1430719683.297641
+Total Average                : 8027/150 = 53.51 us
+Rolling Average (32 samples) : 56.47 us
+
+time_kernel                  : 1430719684.321908
+time_user                    : 1430719684.321969
+Total Average                : 8088/151 = 53.56 us
+Rolling Average (32 samples) : 57.03 us
+
+time_kernel                  : 1430719685.346098
+time_user                    : 1430719685.346174
+Total Average                : 8164/152 = 53.71 us
+Rolling Average (32 samples) : 57.34 us
+
+time_kernel                  : 1430719686.164734
+time_user                    : 1430719686.164777
+Total Average                : 8207/153 = 53.64 us
+Rolling Average (32 samples) : 56.81 us
+
+time_kernel                  : 1430719687.189204
+time_user                    : 1430719687.189251
+Total Average                : 8254/154 = 53.60 us
+Rolling Average (32 samples) : 56.91 us
+
+time_kernel                  : 1430719688.213058
+time_user                    : 1430719688.213121
+Total Average                : 8317/155 = 53.66 us
+Rolling Average (32 samples) : 57.00 us
+
+time_kernel                  : 1430719689.236909
+time_user                    : 1430719689.236955
+Total Average                : 8363/156 = 53.61 us
+Rolling Average (32 samples) : 56.56 us
+
+time_kernel                  : 1430719690.261069
+time_user                    : 1430719690.261129
+Total Average                : 8423/157 = 53.65 us
+Rolling Average (32 samples) : 56.22 us
+
+time_kernel                  : 1430719691.285178
+time_user                    : 1430719691.285243
+Total Average                : 8488/158 = 53.72 us
+Rolling Average (32 samples) : 56.31 us
+
+time_kernel                  : 1430719692.308727
+time_user                    : 1430719692.308772
+Total Average                : 8533/159 = 53.67 us
+Rolling Average (32 samples) : 55.81 us
+
+time_kernel                  : 1430719693.333141
+time_user                    : 1430719693.333201
+Total Average                : 8593/160 = 53.71 us
+Rolling Average (32 samples) : 56.41 us
+
+time_kernel                  : 1430719694.357060
+time_user                    : 1430719694.357121
+Total Average                : 8654/161 = 53.75 us
+Rolling Average (32 samples) : 56.44 us
+
+time_kernel                  : 1430719695.176349
+time_user                    : 1430719695.176395
+Total Average                : 8700/162 = 53.70 us
+Rolling Average (32 samples) : 56.41 us
+
+time_kernel                  : 1430719696.200274
+time_user                    : 1430719696.200333
+Total Average                : 8759/163 = 53.74 us
+Rolling Average (32 samples) : 56.31 us
+
+time_kernel                  : 1430719697.224226
+time_user                    : 1430719697.224287
+Total Average                : 8820/164 = 53.78 us
+Rolling Average (32 samples) : 55.91 us
+
+time_kernel                  : 1430719698.248318
+time_user                    : 1430719698.248355
+Total Average                : 8857/165 = 53.68 us
+Rolling Average (32 samples) : 55.16 us
+
+time_kernel                  : 1430719699.272434
+time_user                    : 1430719699.272473
+Total Average                : 8896/166 = 53.59 us
+Rolling Average (32 samples) : 54.97 us
+
+time_kernel                  : 1430719700.296261
+time_user                    : 1430719700.296306
+Total Average                : 8941/167 = 53.54 us
+Rolling Average (32 samples) : 54.97 us
+
+time_kernel                  : 1430719701.310898
+time_user                    : 1430719701.310938
+Total Average                : 8981/168 = 53.46 us
+Rolling Average (32 samples) : 54.97 us
+
+time_kernel                  : 1430719702.348403
+time_user                    : 1430719702.348428
+Total Average                : 9006/169 = 53.29 us
+Rolling Average (32 samples) : 54.44 us
+
+time_kernel                  : 1430719703.163490
+time_user                    : 1430719703.163548
+Total Average                : 9064/170 = 53.32 us
+Rolling Average (32 samples) : 54.34 us
+
+time_kernel                  : 1430719704.150843
+time_user                    : 1430719704.150895
+Total Average                : 9116/171 = 53.31 us
+Rolling Average (32 samples) : 54.03 us
+
+time_kernel                  : 1430719705.211417
+time_user                    : 1430719705.211463
+Total Average                : 9162/172 = 53.27 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719706.235544
+time_user                    : 1430719706.235585
+Total Average                : 9203/173 = 53.20 us
+Rolling Average (32 samples) : 52.94 us
+
+time_kernel                  : 1430719707.259518
+time_user                    : 1430719707.259581
+Total Average                : 9266/174 = 53.25 us
+Rolling Average (32 samples) : 53.97 us
+
+time_kernel                  : 1430719708.283550
+time_user                    : 1430719708.283586
+Total Average                : 9302/175 = 53.15 us
+Rolling Average (32 samples) : 53.16 us
+
+time_kernel                  : 1430719709.307278
+time_user                    : 1430719709.307303
+Total Average                : 9327/176 = 52.99 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430719710.333895
+time_user                    : 1430719710.333961
+Total Average                : 9393/177 = 53.07 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430719711.355432
+time_user                    : 1430719711.355496
+Total Average                : 9457/178 = 53.13 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719712.174779
+time_user                    : 1430719712.174820
+Total Average                : 9498/179 = 53.06 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430719713.198803
+time_user                    : 1430719713.198864
+Total Average                : 9559/180 = 53.11 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430719714.222746
+time_user                    : 1430719714.222812
+Total Average                : 9625/181 = 53.18 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430719715.246702
+time_user                    : 1430719715.246762
+Total Average                : 9685/182 = 53.21 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430719716.270685
+time_user                    : 1430719716.270744
+Total Average                : 9744/183 = 53.25 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430719717.294623
+time_user                    : 1430719717.294664
+Total Average                : 9785/184 = 53.18 us
+Rolling Average (32 samples) : 50.66 us
+
+time_kernel                  : 1430719718.318627
+time_user                    : 1430719718.318687
+Total Average                : 9845/185 = 53.22 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430719719.342583
+time_user                    : 1430719719.342644
+Total Average                : 9906/186 = 53.26 us
+Rolling Average (32 samples) : 51.62 us
+
+time_kernel                  : 1430719720.161821
+time_user                    : 1430719720.161883
+Total Average                : 9968/187 = 53.30 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430719721.186032
+time_user                    : 1430719721.186093
+Total Average                : 10029/188 = 53.35 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430719722.210042
+time_user                    : 1430719722.210085
+Total Average                : 10072/189 = 53.29 us
+Rolling Average (32 samples) : 51.53 us
+
+time_kernel                  : 1430719723.233702
+time_user                    : 1430719723.233763
+Total Average                : 10133/190 = 53.33 us
+Rolling Average (32 samples) : 51.41 us
+
+time_kernel                  : 1430719724.257734
+time_user                    : 1430719724.257773
+Total Average                : 10172/191 = 53.26 us
+Rolling Average (32 samples) : 51.22 us
+
+time_kernel                  : 1430719725.281802
+time_user                    : 1430719725.281863
+Total Average                : 10233/192 = 53.30 us
+Rolling Average (32 samples) : 51.25 us
+
+time_kernel                  : 1430719726.305946
+time_user                    : 1430719726.305992
+Total Average                : 10279/193 = 53.26 us
+Rolling Average (32 samples) : 50.78 us
+
+time_kernel                  : 1430719727.329781
+time_user                    : 1430719727.329839
+Total Average                : 10337/194 = 53.28 us
+Rolling Average (32 samples) : 51.16 us
+
+time_kernel                  : 1430719728.353683
+time_user                    : 1430719728.353746
+Total Average                : 10400/195 = 53.33 us
+Rolling Average (32 samples) : 51.28 us
+
+time_kernel                  : 1430719729.172694
+time_user                    : 1430719729.172740
+Total Average                : 10446/196 = 53.30 us
+Rolling Average (32 samples) : 50.81 us
+
+time_kernel                  : 1430719730.197256
+time_user                    : 1430719730.197301
+Total Average                : 10491/197 = 53.25 us
+Rolling Average (32 samples) : 51.06 us
+
+time_kernel                  : 1430719731.221318
+time_user                    : 1430719731.221378
+Total Average                : 10551/198 = 53.29 us
+Rolling Average (32 samples) : 51.72 us
+
+time_kernel                  : 1430719732.244551
+time_user                    : 1430719732.244597
+Total Average                : 10597/199 = 53.25 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430719733.268936
+time_user                    : 1430719733.268994
+Total Average                : 10655/200 = 53.28 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719734.153137
+time_user                    : 1430719734.153189
+Total Average                : 10707/201 = 53.27 us
+Rolling Average (32 samples) : 53.16 us
+
+time_kernel                  : 1430719735.316439
+time_user                    : 1430719735.316483
+Total Average                : 10751/202 = 53.22 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719736.341020
+time_user                    : 1430719736.341081
+Total Average                : 10812/203 = 53.26 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719737.160216
+time_user                    : 1430719737.160278
+Total Average                : 10874/204 = 53.30 us
+Rolling Average (32 samples) : 53.50 us
+
+time_kernel                  : 1430719738.183773
+time_user                    : 1430719738.183818
+Total Average                : 10919/205 = 53.26 us
+Rolling Average (32 samples) : 53.62 us
+
+time_kernel                  : 1430719739.208237
+time_user                    : 1430719739.208312
+Total Average                : 10994/206 = 53.37 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719740.232920
+time_user                    : 1430719740.232953
+Total Average                : 11027/207 = 53.27 us
+Rolling Average (32 samples) : 53.91 us
+
+time_kernel                  : 1430719741.255803
+time_user                    : 1430719741.255848
+Total Average                : 11072/208 = 53.23 us
+Rolling Average (32 samples) : 54.53 us
+
+time_kernel                  : 1430719742.279975
+time_user                    : 1430719742.280021
+Total Average                : 11118/209 = 53.20 us
+Rolling Average (32 samples) : 53.91 us
+
+time_kernel                  : 1430719743.304131
+time_user                    : 1430719743.304189
+Total Average                : 11176/210 = 53.22 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430719744.327765
+time_user                    : 1430719744.327811
+Total Average                : 11222/211 = 53.18 us
+Rolling Average (32 samples) : 53.88 us
+
+time_kernel                  : 1430719745.352188
+time_user                    : 1430719745.352249
+Total Average                : 11283/212 = 53.22 us
+Rolling Average (32 samples) : 53.88 us
+
+time_kernel                  : 1430719746.171269
+time_user                    : 1430719746.171328
+Total Average                : 11342/213 = 53.25 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430719747.195291
+time_user                    : 1430719747.195355
+Total Average                : 11406/214 = 53.30 us
+Rolling Average (32 samples) : 53.78 us
+
+time_kernel                  : 1430719748.219370
+time_user                    : 1430719748.219414
+Total Average                : 11450/215 = 53.26 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430719749.243338
+time_user                    : 1430719749.243399
+Total Average                : 11511/216 = 53.29 us
+Rolling Average (32 samples) : 53.94 us
+
+time_kernel                  : 1430719750.153748
+time_user                    : 1430719750.153799
+Total Average                : 11562/217 = 53.28 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430719751.291319
+time_user                    : 1430719751.291381
+Total Average                : 11624/218 = 53.32 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719752.315421
+time_user                    : 1430719752.315468
+Total Average                : 11671/219 = 53.29 us
+Rolling Average (32 samples) : 53.22 us
+
+time_kernel                  : 1430719753.339355
+time_user                    : 1430719753.339419
+Total Average                : 11735/220 = 53.34 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430719754.363377
+time_user                    : 1430719754.363423
+Total Average                : 11781/221 = 53.31 us
+Rolling Average (32 samples) : 53.41 us
+
+time_kernel                  : 1430719755.182518
+time_user                    : 1430719755.182558
+Total Average                : 11821/222 = 53.25 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719756.206521
+time_user                    : 1430719756.206579
+Total Average                : 11879/223 = 53.27 us
+Rolling Average (32 samples) : 53.34 us
+
+time_kernel                  : 1430719757.230473
+time_user                    : 1430719757.230531
+Total Average                : 11937/224 = 53.29 us
+Rolling Average (32 samples) : 53.25 us
+
+time_kernel                  : 1430719758.254518
+time_user                    : 1430719758.254578
+Total Average                : 11997/225 = 53.32 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719759.278420
+time_user                    : 1430719759.278481
+Total Average                : 12058/226 = 53.35 us
+Rolling Average (32 samples) : 53.78 us
+
+time_kernel                  : 1430719760.302421
+time_user                    : 1430719760.302480
+Total Average                : 12117/227 = 53.38 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430719761.309713
+time_user                    : 1430719761.309756
+Total Average                : 12160/228 = 53.33 us
+Rolling Average (32 samples) : 53.56 us
+
+time_kernel                  : 1430719762.152974
+time_user                    : 1430719762.153024
+Total Average                : 12210/229 = 53.32 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430719763.169946
+time_user                    : 1430719763.169976
+Total Average                : 12240/230 = 53.22 us
+Rolling Average (32 samples) : 52.78 us
+
+time_kernel                  : 1430719764.167738
+time_user                    : 1430719764.167767
+Total Average                : 12269/231 = 53.11 us
+Rolling Average (32 samples) : 52.25 us
+
+time_kernel                  : 1430719765.217480
+time_user                    : 1430719765.217526
+Total Average                : 12315/232 = 53.08 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719766.241596
+time_user                    : 1430719766.241656
+Total Average                : 12375/233 = 53.11 us
+Rolling Average (32 samples) : 52.12 us
+
+time_kernel                  : 1430719767.265689
+time_user                    : 1430719767.265725
+Total Average                : 12411/234 = 53.04 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719768.289669
+time_user                    : 1430719768.289730
+Total Average                : 12472/235 = 53.07 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719769.313606
+time_user                    : 1430719769.313666
+Total Average                : 12532/236 = 53.10 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430719770.271356
+time_user                    : 1430719770.271413
+Total Average                : 12589/237 = 53.12 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430719771.361668
+time_user                    : 1430719771.361727
+Total Average                : 12648/238 = 53.14 us
+Rolling Average (32 samples) : 51.69 us
+
+time_kernel                  : 1430719772.180799
+time_user                    : 1430719772.180859
+Total Average                : 12708/239 = 53.17 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430719773.204870
+time_user                    : 1430719773.204931
+Total Average                : 12769/240 = 53.20 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430719774.229019
+time_user                    : 1430719774.229081
+Total Average                : 12831/241 = 53.24 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719775.252812
+time_user                    : 1430719775.252858
+Total Average                : 12877/242 = 53.21 us
+Rolling Average (32 samples) : 53.16 us
+
+time_kernel                  : 1430719776.276735
+time_user                    : 1430719776.276797
+Total Average                : 12939/243 = 53.25 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430719777.300767
+time_user                    : 1430719777.300827
+Total Average                : 12999/244 = 53.27 us
+Rolling Average (32 samples) : 53.62 us
+
+time_kernel                  : 1430719778.324745
+time_user                    : 1430719778.324806
+Total Average                : 13060/245 = 53.31 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719779.349084
+time_user                    : 1430719779.349145
+Total Average                : 13121/246 = 53.34 us
+Rolling Average (32 samples) : 53.59 us
+
+time_kernel                  : 1430719780.168315
+time_user                    : 1430719780.168379
+Total Average                : 13185/247 = 53.38 us
+Rolling Average (32 samples) : 54.22 us
+
+time_kernel                  : 1430719781.152893
+time_user                    : 1430719781.152947
+Total Average                : 13239/248 = 53.38 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719782.216245
+time_user                    : 1430719782.216312
+Total Average                : 13306/249 = 53.44 us
+Rolling Average (32 samples) : 54.50 us
+
+time_kernel                  : 1430719783.240060
+time_user                    : 1430719783.240123
+Total Average                : 13369/250 = 53.48 us
+Rolling Average (32 samples) : 54.53 us
+
+time_kernel                  : 1430719784.263526
+time_user                    : 1430719784.263569
+Total Average                : 13412/251 = 53.43 us
+Rolling Average (32 samples) : 54.41 us
+
+time_kernel                  : 1430719785.288003
+time_user                    : 1430719785.288063
+Total Average                : 13472/252 = 53.46 us
+Rolling Average (32 samples) : 54.28 us
+
+time_kernel                  : 1430719786.311859
+time_user                    : 1430719786.311921
+Total Average                : 13534/253 = 53.49 us
+Rolling Average (32 samples) : 54.78 us
+
+time_kernel                  : 1430719787.335607
+time_user                    : 1430719787.335655
+Total Average                : 13582/254 = 53.47 us
+Rolling Average (32 samples) : 55.03 us
+
+time_kernel                  : 1430719788.360012
+time_user                    : 1430719788.360073
+Total Average                : 13643/255 = 53.50 us
+Rolling Average (32 samples) : 55.12 us
+
+time_kernel                  : 1430719789.179157
+time_user                    : 1430719789.179218
+Total Average                : 13704/256 = 53.53 us
+Rolling Average (32 samples) : 55.22 us
+
+time_kernel                  : 1430719790.202668
+time_user                    : 1430719790.202697
+Total Average                : 13733/257 = 53.44 us
+Rolling Average (32 samples) : 54.25 us
+
+time_kernel                  : 1430719791.227299
+time_user                    : 1430719791.227343
+Total Average                : 13777/258 = 53.40 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430719792.251176
+time_user                    : 1430719792.251236
+Total Average                : 13837/259 = 53.42 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430719793.274843
+time_user                    : 1430719793.274883
+Total Average                : 13877/260 = 53.37 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430719794.247332
+time_user                    : 1430719794.247362
+Total Average                : 13907/261 = 53.28 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430719795.323160
+time_user                    : 1430719795.323232
+Total Average                : 13979/262 = 53.35 us
+Rolling Average (32 samples) : 54.34 us
+
+time_kernel                  : 1430719796.346895
+time_user                    : 1430719796.346936
+Total Average                : 14020/263 = 53.31 us
+Rolling Average (32 samples) : 54.72 us
+
+time_kernel                  : 1430719797.165480
+time_user                    : 1430719797.165521
+Total Average                : 14061/264 = 53.26 us
+Rolling Average (32 samples) : 54.56 us
+
+time_kernel                  : 1430719798.190412
+time_user                    : 1430719798.190469
+Total Average                : 14118/265 = 53.28 us
+Rolling Average (32 samples) : 54.47 us
+
+time_kernel                  : 1430719799.214302
+time_user                    : 1430719799.214364
+Total Average                : 14180/266 = 53.31 us
+Rolling Average (32 samples) : 55.28 us
+
+time_kernel                  : 1430719800.238371
+time_user                    : 1430719800.238431
+Total Average                : 14240/267 = 53.33 us
+Rolling Average (32 samples) : 55.25 us
+
+time_kernel                  : 1430719801.262352
+time_user                    : 1430719801.262410
+Total Average                : 14298/268 = 53.35 us
+Rolling Average (32 samples) : 55.19 us
+
+time_kernel                  : 1430719802.286297
+time_user                    : 1430719802.286331
+Total Average                : 14332/269 = 53.28 us
+Rolling Average (32 samples) : 54.47 us
+
+time_kernel                  : 1430719803.310345
+time_user                    : 1430719803.310392
+Total Average                : 14379/270 = 53.26 us
+Rolling Average (32 samples) : 54.09 us
+
+time_kernel                  : 1430719804.334337
+time_user                    : 1430719804.334382
+Total Average                : 14424/271 = 53.23 us
+Rolling Average (32 samples) : 53.62 us
+
+time_kernel                  : 1430719805.358351
+time_user                    : 1430719805.358410
+Total Average                : 14483/272 = 53.25 us
+Rolling Average (32 samples) : 53.56 us
+
+time_kernel                  : 1430719806.177489
+time_user                    : 1430719806.177550
+Total Average                : 14544/273 = 53.27 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719807.202824
+time_user                    : 1430719807.202865
+Total Average                : 14585/274 = 53.23 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430719808.225535
+time_user                    : 1430719808.225595
+Total Average                : 14645/275 = 53.25 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430719809.249467
+time_user                    : 1430719809.249529
+Total Average                : 14707/276 = 53.29 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430719810.273486
+time_user                    : 1430719810.273544
+Total Average                : 14765/277 = 53.30 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719811.297442
+time_user                    : 1430719811.297503
+Total Average                : 14826/278 = 53.33 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719812.321510
+time_user                    : 1430719812.321570
+Total Average                : 14886/279 = 53.35 us
+Rolling Average (32 samples) : 53.16 us
+
+time_kernel                  : 1430719813.345490
+time_user                    : 1430719813.345552
+Total Average                : 14948/280 = 53.39 us
+Rolling Average (32 samples) : 53.41 us
+
+time_kernel                  : 1430719814.165026
+time_user                    : 1430719814.165071
+Total Average                : 14993/281 = 53.36 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719815.152821
+time_user                    : 1430719815.152873
+Total Average                : 15045/282 = 53.35 us
+Rolling Average (32 samples) : 52.38 us
+
+time_kernel                  : 1430719816.212673
+time_user                    : 1430719816.212735
+Total Average                : 15107/283 = 53.38 us
+Rolling Average (32 samples) : 52.97 us
+
+time_kernel                  : 1430719817.236606
+time_user                    : 1430719817.236667
+Total Average                : 15168/284 = 53.41 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719818.260636
+time_user                    : 1430719818.260698
+Total Average                : 15230/285 = 53.44 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719819.284731
+time_user                    : 1430719819.284792
+Total Average                : 15291/286 = 53.47 us
+Rolling Average (32 samples) : 53.41 us
+
+time_kernel                  : 1430719820.308658
+time_user                    : 1430719820.308699
+Total Average                : 15332/287 = 53.42 us
+Rolling Average (32 samples) : 52.78 us
+
+time_kernel                  : 1430719821.306504
+time_user                    : 1430719821.306548
+Total Average                : 15376/288 = 53.39 us
+Rolling Average (32 samples) : 52.25 us
+
+time_kernel                  : 1430719822.356472
+time_user                    : 1430719822.356503
+Total Average                : 15407/289 = 53.31 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719823.176068
+time_user                    : 1430719823.176111
+Total Average                : 15450/290 = 53.28 us
+Rolling Average (32 samples) : 52.28 us
+
+time_kernel                  : 1430719824.199958
+time_user                    : 1430719824.200032
+Total Average                : 15524/291 = 53.35 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719825.224090
+time_user                    : 1430719825.224150
+Total Average                : 15584/292 = 53.37 us
+Rolling Average (32 samples) : 53.34 us
+
+time_kernel                  : 1430719826.247882
+time_user                    : 1430719826.247918
+Total Average                : 15620/293 = 53.31 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719827.271852
+time_user                    : 1430719827.271891
+Total Average                : 15659/294 = 53.26 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430719828.153902
+time_user                    : 1430719828.153954
+Total Average                : 15711/295 = 53.26 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430719829.319907
+time_user                    : 1430719829.319947
+Total Average                : 15751/296 = 53.21 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430719830.343810
+time_user                    : 1430719830.343873
+Total Average                : 15814/297 = 53.25 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719831.163140
+time_user                    : 1430719831.163203
+Total Average                : 15877/298 = 53.28 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430719832.186946
+time_user                    : 1430719832.186984
+Total Average                : 15915/299 = 53.23 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719833.210797
+time_user                    : 1430719833.210836
+Total Average                : 15954/300 = 53.18 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430719834.235100
+time_user                    : 1430719834.235158
+Total Average                : 16012/301 = 53.20 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430719835.259009
+time_user                    : 1430719835.259047
+Total Average                : 16050/302 = 53.15 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430719836.282656
+time_user                    : 1430719836.282696
+Total Average                : 16090/303 = 53.10 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430719837.308655
+time_user                    : 1430719837.308687
+Total Average                : 16122/304 = 53.03 us
+Rolling Average (32 samples) : 51.22 us
+
+time_kernel                  : 1430719838.330927
+time_user                    : 1430719838.330985
+Total Average                : 16180/305 = 53.05 us
+Rolling Average (32 samples) : 51.12 us
+
+time_kernel                  : 1430719839.152642
+time_user                    : 1430719839.152694
+Total Average                : 16232/306 = 53.05 us
+Rolling Average (32 samples) : 51.47 us
+
+time_kernel                  : 1430719840.174314
+time_user                    : 1430719840.174374
+Total Average                : 16292/307 = 53.07 us
+Rolling Average (32 samples) : 51.47 us
+
+time_kernel                  : 1430719841.198202
+time_user                    : 1430719841.198260
+Total Average                : 16350/308 = 53.08 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430719842.221671
+time_user                    : 1430719842.221730
+Total Average                : 16409/309 = 53.10 us
+Rolling Average (32 samples) : 51.38 us
+
+time_kernel                  : 1430719843.246131
+time_user                    : 1430719843.246191
+Total Average                : 16469/310 = 53.13 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430719844.270209
+time_user                    : 1430719844.270269
+Total Average                : 16529/311 = 53.15 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430719845.294008
+time_user                    : 1430719845.294066
+Total Average                : 16587/312 = 53.16 us
+Rolling Average (32 samples) : 51.22 us
+
+time_kernel                  : 1430719846.318139
+time_user                    : 1430719846.318200
+Total Average                : 16648/313 = 53.19 us
+Rolling Average (32 samples) : 51.72 us
+
+time_kernel                  : 1430719847.342111
+time_user                    : 1430719847.342152
+Total Average                : 16689/314 = 53.15 us
+Rolling Average (32 samples) : 51.38 us
+
+time_kernel                  : 1430719848.161344
+time_user                    : 1430719848.161404
+Total Average                : 16749/315 = 53.17 us
+Rolling Average (32 samples) : 51.31 us
+
+time_kernel                  : 1430719849.185456
+time_user                    : 1430719849.185516
+Total Average                : 16809/316 = 53.19 us
+Rolling Average (32 samples) : 51.28 us
+
+time_kernel                  : 1430719850.209368
+time_user                    : 1430719850.209411
+Total Average                : 16852/317 = 53.16 us
+Rolling Average (32 samples) : 50.69 us
+
+time_kernel                  : 1430719851.233224
+time_user                    : 1430719851.233270
+Total Average                : 16898/318 = 53.14 us
+Rolling Average (32 samples) : 50.22 us
+
+time_kernel                  : 1430719852.257439
+time_user                    : 1430719852.257498
+Total Average                : 16957/319 = 53.16 us
+Rolling Average (32 samples) : 50.78 us
+
+time_kernel                  : 1430719853.281310
+time_user                    : 1430719853.281371
+Total Average                : 17018/320 = 53.18 us
+Rolling Average (32 samples) : 51.31 us
+
+time_kernel                  : 1430719854.152527
+time_user                    : 1430719854.152579
+Total Average                : 17070/321 = 53.18 us
+Rolling Average (32 samples) : 51.97 us
+
+time_kernel                  : 1430719855.307300
+time_user                    : 1430719855.307340
+Total Average                : 17110/322 = 53.14 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719856.353256
+time_user                    : 1430719856.353319
+Total Average                : 17173/323 = 53.17 us
+Rolling Average (32 samples) : 51.53 us
+
+time_kernel                  : 1430719857.172557
+time_user                    : 1430719857.172596
+Total Average                : 17212/324 = 53.12 us
+Rolling Average (32 samples) : 50.88 us
+
+time_kernel                  : 1430719858.196536
+time_user                    : 1430719858.196597
+Total Average                : 17273/325 = 53.15 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430719859.220434
+time_user                    : 1430719859.220494
+Total Average                : 17333/326 = 53.17 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719860.244479
+time_user                    : 1430719860.244540
+Total Average                : 17394/327 = 53.19 us
+Rolling Average (32 samples) : 52.59 us
+
+time_kernel                  : 1430719861.268439
+time_user                    : 1430719861.268471
+Total Average                : 17426/328 = 53.13 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719862.292561
+time_user                    : 1430719862.292594
+Total Average                : 17459/329 = 53.07 us
+Rolling Average (32 samples) : 51.41 us
+
+time_kernel                  : 1430719863.316529
+time_user                    : 1430719863.316589
+Total Average                : 17519/330 = 53.09 us
+Rolling Average (32 samples) : 51.31 us
+
+time_kernel                  : 1430719864.340587
+time_user                    : 1430719864.340648
+Total Average                : 17580/331 = 53.11 us
+Rolling Average (32 samples) : 52.03 us
+
+time_kernel                  : 1430719865.159699
+time_user                    : 1430719865.159760
+Total Average                : 17641/332 = 53.14 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719866.183684
+time_user                    : 1430719866.183724
+Total Average                : 17681/333 = 53.10 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430719867.207761
+time_user                    : 1430719867.207821
+Total Average                : 17741/334 = 53.12 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430719868.231733
+time_user                    : 1430719868.231791
+Total Average                : 17799/335 = 53.13 us
+Rolling Average (32 samples) : 53.41 us
+
+time_kernel                  : 1430719869.255766
+time_user                    : 1430719869.255829
+Total Average                : 17862/336 = 53.16 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430719870.279646
+time_user                    : 1430719870.279686
+Total Average                : 17902/337 = 53.12 us
+Rolling Average (32 samples) : 53.81 us
+
+time_kernel                  : 1430719871.304093
+time_user                    : 1430719871.304134
+Total Average                : 17943/338 = 53.09 us
+Rolling Average (32 samples) : 53.47 us
+
+time_kernel                  : 1430719872.327697
+time_user                    : 1430719872.327758
+Total Average                : 18004/339 = 53.11 us
+Rolling Average (32 samples) : 53.50 us
+
+time_kernel                  : 1430719873.351753
+time_user                    : 1430719873.351799
+Total Average                : 18050/340 = 53.09 us
+Rolling Average (32 samples) : 53.12 us
+
+time_kernel                  : 1430719874.171883
+time_user                    : 1430719874.171924
+Total Average                : 18091/341 = 53.05 us
+Rolling Average (32 samples) : 52.56 us
+
+time_kernel                  : 1430719875.194841
+time_user                    : 1430719875.194902
+Total Average                : 18152/342 = 53.08 us
+Rolling Average (32 samples) : 52.59 us
+
+time_kernel                  : 1430719876.218078
+time_user                    : 1430719876.218115
+Total Average                : 18189/343 = 53.03 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719877.242908
+time_user                    : 1430719877.242967
+Total Average                : 18248/344 = 53.05 us
+Rolling Average (32 samples) : 51.91 us
+
+time_kernel                  : 1430719878.266768
+time_user                    : 1430719878.266827
+Total Average                : 18307/345 = 53.06 us
+Rolling Average (32 samples) : 51.84 us
+
+time_kernel                  : 1430719879.291198
+time_user                    : 1430719879.291238
+Total Average                : 18347/346 = 53.03 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430719880.287136
+time_user                    : 1430719880.287176
+Total Average                : 18387/347 = 52.99 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430719881.338880
+time_user                    : 1430719881.338920
+Total Average                : 18427/348 = 52.95 us
+Rolling Average (32 samples) : 50.56 us
+
+time_kernel                  : 1430719882.157754
+time_user                    : 1430719882.157800
+Total Average                : 18473/349 = 52.93 us
+Rolling Average (32 samples) : 50.66 us
+
+time_kernel                  : 1430719883.182444
+time_user                    : 1430719883.182506
+Total Average                : 18535/350 = 52.96 us
+Rolling Average (32 samples) : 51.16 us
+
+time_kernel                  : 1430719884.206086
+time_user                    : 1430719884.206171
+Total Average                : 18620/351 = 53.05 us
+Rolling Average (32 samples) : 51.97 us
+
+time_kernel                  : 1430719885.229732
+time_user                    : 1430719885.229788
+Total Average                : 18676/352 = 53.06 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430719886.259017
+time_user                    : 1430719886.259086
+Total Average                : 18745/353 = 53.10 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719887.278070
+time_user                    : 1430719887.278109
+Total Average                : 18784/354 = 53.06 us
+Rolling Average (32 samples) : 52.31 us
+
+time_kernel                  : 1430719888.301652
+time_user                    : 1430719888.301698
+Total Average                : 18830/355 = 53.04 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430719889.327077
+time_user                    : 1430719889.327136
+Total Average                : 18889/356 = 53.06 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430719890.306439
+time_user                    : 1430719890.306483
+Total Average                : 18933/357 = 53.03 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719891.169495
+time_user                    : 1430719891.169546
+Total Average                : 18984/358 = 53.03 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430719892.193218
+time_user                    : 1430719892.193259
+Total Average                : 19025/359 = 52.99 us
+Rolling Average (32 samples) : 50.97 us
+
+time_kernel                  : 1430719893.217288
+time_user                    : 1430719893.217350
+Total Average                : 19087/360 = 53.02 us
+Rolling Average (32 samples) : 51.91 us
+
+time_kernel                  : 1430719894.241363
+time_user                    : 1430719894.241423
+Total Average                : 19147/361 = 53.04 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719895.265149
+time_user                    : 1430719895.265211
+Total Average                : 19209/362 = 53.06 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430719896.289224
+time_user                    : 1430719896.289288
+Total Average                : 19273/363 = 53.09 us
+Rolling Average (32 samples) : 52.91 us
+
+time_kernel                  : 1430719897.312822
+time_user                    : 1430719897.312861
+Total Average                : 19312/364 = 53.05 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430719898.337206
+time_user                    : 1430719898.337266
+Total Average                : 19372/365 = 53.07 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430719899.361282
+time_user                    : 1430719899.361327
+Total Average                : 19417/366 = 53.05 us
+Rolling Average (32 samples) : 52.38 us
+
+time_kernel                  : 1430719900.180457
+time_user                    : 1430719900.180520
+Total Average                : 19480/367 = 53.08 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430719901.204400
+time_user                    : 1430719901.204461
+Total Average                : 19541/368 = 53.10 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430719902.228276
+time_user                    : 1430719902.228335
+Total Average                : 19600/369 = 53.12 us
+Rolling Average (32 samples) : 53.06 us
+
+time_kernel                  : 1430719903.252879
+time_user                    : 1430719903.252918
+Total Average                : 19639/370 = 53.08 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719904.276348
+time_user                    : 1430719904.276394
+Total Average                : 19685/371 = 53.06 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430719905.300337
+time_user                    : 1430719905.300374
+Total Average                : 19722/372 = 53.02 us
+Rolling Average (32 samples) : 52.25 us
+
+time_kernel                  : 1430719906.324265
+time_user                    : 1430719906.324325
+Total Average                : 19782/373 = 53.03 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430719907.348272
+time_user                    : 1430719907.348319
+Total Average                : 19829/374 = 53.02 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430719908.167598
+time_user                    : 1430719908.167658
+Total Average                : 19889/375 = 53.04 us
+Rolling Average (32 samples) : 53.12 us
+
+time_kernel                  : 1430719909.191556
+time_user                    : 1430719909.191621
+Total Average                : 19954/376 = 53.07 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430719910.215694
+time_user                    : 1430719910.215762
+Total Average                : 20022/377 = 53.11 us
+Rolling Average (32 samples) : 53.59 us
+
+time_kernel                  : 1430719911.239591
+time_user                    : 1430719911.239636
+Total Average                : 20067/378 = 53.09 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430719912.152174
+time_user                    : 1430719912.152197
+Total Average                : 20090/379 = 53.01 us
+Rolling Average (32 samples) : 53.22 us
+
+time_kernel                  : 1430719913.152277
+time_user                    : 1430719913.152328
+Total Average                : 20141/380 = 53.00 us
+Rolling Average (32 samples) : 53.56 us
+
+time_kernel                  : 1430719914.152647
+time_user                    : 1430719914.152699
+Total Average                : 20193/381 = 53.00 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430719915.335551
+time_user                    : 1430719915.335591
+Total Average                : 20233/382 = 52.97 us
+Rolling Average (32 samples) : 53.06 us
+
+time_kernel                  : 1430719916.155065
+time_user                    : 1430719916.155121
+Total Average                : 20289/383 = 52.97 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430719917.178724
+time_user                    : 1430719917.178786
+Total Average                : 20351/384 = 53.00 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719918.202772
+time_user                    : 1430719918.202833
+Total Average                : 20412/385 = 53.02 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430719919.226718
+time_user                    : 1430719919.226777
+Total Average                : 20471/386 = 53.03 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719920.250824
+time_user                    : 1430719920.250885
+Total Average                : 20532/387 = 53.05 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430719921.274669
+time_user                    : 1430719921.274729
+Total Average                : 20592/388 = 53.07 us
+Rolling Average (32 samples) : 53.22 us
+
+time_kernel                  : 1430719922.298674
+time_user                    : 1430719922.298735
+Total Average                : 20653/389 = 53.09 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430719923.152269
+time_user                    : 1430719923.152321
+Total Average                : 20705/390 = 53.09 us
+Rolling Average (32 samples) : 53.78 us
+
+time_kernel                  : 1430719924.346705
+time_user                    : 1430719924.346744
+Total Average                : 20744/391 = 53.05 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430719925.165196
+time_user                    : 1430719925.165236
+Total Average                : 20784/392 = 53.02 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430719926.152219
+time_user                    : 1430719926.152270
+Total Average                : 20835/393 = 53.02 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719927.150280
+time_user                    : 1430719927.150332
+Total Average                : 20887/394 = 53.01 us
+Rolling Average (32 samples) : 52.44 us
+
+time_kernel                  : 1430719928.152163
+time_user                    : 1430719928.152209
+Total Average                : 20933/395 = 52.99 us
+Rolling Average (32 samples) : 51.88 us
+
+time_kernel                  : 1430719929.152181
+time_user                    : 1430719929.152233
+Total Average                : 20985/396 = 52.99 us
+Rolling Average (32 samples) : 52.28 us
+
+time_kernel                  : 1430719930.149693
+time_user                    : 1430719930.149744
+Total Average                : 21036/397 = 52.99 us
+Rolling Average (32 samples) : 52.00 us
+
+time_kernel                  : 1430719931.149698
+time_user                    : 1430719931.149749
+Total Average                : 21087/398 = 52.98 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430719932.152138
+time_user                    : 1430719932.152200
+Total Average                : 21149/399 = 53.01 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430719933.152185
+time_user                    : 1430719933.152248
+Total Average                : 21212/400 = 53.03 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430719934.152221
+time_user                    : 1430719934.152273
+Total Average                : 21264/401 = 53.03 us
+Rolling Average (32 samples) : 52.00 us
+
+time_kernel                  : 1430719935.152570
+time_user                    : 1430719935.152621
+Total Average                : 21315/402 = 53.02 us
+Rolling Average (32 samples) : 52.38 us
+
+time_kernel                  : 1430719936.152475
+time_user                    : 1430719936.152536
+Total Average                : 21376/403 = 53.04 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430719937.152512
+time_user                    : 1430719937.152564
+Total Average                : 21428/404 = 53.04 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430719938.152287
+time_user                    : 1430719938.152360
+Total Average                : 21501/405 = 53.09 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430719939.152151
+time_user                    : 1430719939.152202
+Total Average                : 21552/406 = 53.08 us
+Rolling Average (32 samples) : 53.84 us
+
+time_kernel                  : 1430719940.152157
+time_user                    : 1430719940.152207
+Total Average                : 21602/407 = 53.08 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719941.152141
+time_user                    : 1430719941.152192
+Total Average                : 21653/408 = 53.07 us
+Rolling Average (32 samples) : 53.09 us
+
+time_kernel                  : 1430719942.152177
+time_user                    : 1430719942.152227
+Total Average                : 21703/409 = 53.06 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430719943.152157
+time_user                    : 1430719943.152209
+Total Average                : 21755/410 = 53.06 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719944.212640
+time_user                    : 1430719944.212671
+Total Average                : 21786/411 = 53.01 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430719945.236238
+time_user                    : 1430719945.236298
+Total Average                : 21846/412 = 53.02 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719946.154943
+time_user                    : 1430719946.154995
+Total Average                : 21898/413 = 53.02 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719947.284208
+time_user                    : 1430719947.284267
+Total Average                : 21957/414 = 53.04 us
+Rolling Average (32 samples) : 53.88 us
+
+time_kernel                  : 1430719948.308190
+time_user                    : 1430719948.308230
+Total Average                : 21997/415 = 53.00 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430719949.332619
+time_user                    : 1430719949.332659
+Total Average                : 22037/416 = 52.97 us
+Rolling Average (32 samples) : 52.69 us
+
+time_kernel                  : 1430719950.356152
+time_user                    : 1430719950.356212
+Total Average                : 22097/417 = 52.99 us
+Rolling Average (32 samples) : 52.66 us
+
+time_kernel                  : 1430719951.175385
+time_user                    : 1430719951.175446
+Total Average                : 22158/418 = 53.01 us
+Rolling Average (32 samples) : 52.72 us
+
+time_kernel                  : 1430719952.199351
+time_user                    : 1430719952.199415
+Total Average                : 22222/419 = 53.04 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430719953.223380
+time_user                    : 1430719953.223440
+Total Average                : 22282/420 = 53.05 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430719954.247490
+time_user                    : 1430719954.247536
+Total Average                : 22328/421 = 53.04 us
+Rolling Average (32 samples) : 52.34 us
+
+time_kernel                  : 1430719955.271480
+time_user                    : 1430719955.271561
+Total Average                : 22409/422 = 53.10 us
+Rolling Average (32 samples) : 53.25 us
+
+time_kernel                  : 1430719956.295329
+time_user                    : 1430719956.295388
+Total Average                : 22468/423 = 53.12 us
+Rolling Average (32 samples) : 53.88 us
+
+time_kernel                  : 1430719957.319391
+time_user                    : 1430719957.319453
+Total Average                : 22530/424 = 53.14 us
+Rolling Average (32 samples) : 54.56 us
+
+time_kernel                  : 1430719958.343643
+time_user                    : 1430719958.343704
+Total Average                : 22591/425 = 53.16 us
+Rolling Average (32 samples) : 54.88 us
+
+time_kernel                  : 1430719959.162689
+time_user                    : 1430719959.162727
+Total Average                : 22629/426 = 53.12 us
+Rolling Average (32 samples) : 54.44 us
+
+time_kernel                  : 1430719960.186680
+time_user                    : 1430719960.186713
+Total Average                : 22662/427 = 53.07 us
+Rolling Average (32 samples) : 54.03 us
+
+time_kernel                  : 1430719961.210578
+time_user                    : 1430719961.210638
+Total Average                : 22722/428 = 53.09 us
+Rolling Average (32 samples) : 54.28 us
+
+time_kernel                  : 1430719962.234499
+time_user                    : 1430719962.234560
+Total Average                : 22783/429 = 53.11 us
+Rolling Average (32 samples) : 54.59 us
+
+time_kernel                  : 1430719963.258983
+time_user                    : 1430719963.259045
+Total Average                : 22845/430 = 53.13 us
+Rolling Average (32 samples) : 54.94 us
+
+time_kernel                  : 1430719964.149614
+time_user                    : 1430719964.149667
+Total Average                : 22898/431 = 53.13 us
+Rolling Average (32 samples) : 54.66 us
+
+time_kernel                  : 1430719965.306521
+time_user                    : 1430719965.306569
+Total Average                : 22946/432 = 53.12 us
+Rolling Average (32 samples) : 54.19 us
+
+time_kernel                  : 1430719966.330465
+time_user                    : 1430719966.330528
+Total Average                : 23009/433 = 53.14 us
+Rolling Average (32 samples) : 54.53 us
+
+time_kernel                  : 1430719967.354673
+time_user                    : 1430719967.354707
+Total Average                : 23043/434 = 53.09 us
+Rolling Average (32 samples) : 54.00 us
+
+time_kernel                  : 1430719968.173864
+time_user                    : 1430719968.173908
+Total Average                : 23087/435 = 53.07 us
+Rolling Average (32 samples) : 53.47 us
+
+time_kernel                  : 1430719969.197755
+time_user                    : 1430719969.197803
+Total Average                : 23135/436 = 53.06 us
+Rolling Average (32 samples) : 53.34 us
+
+time_kernel                  : 1430719970.221773
+time_user                    : 1430719970.221819
+Total Average                : 23181/437 = 53.05 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430719971.245742
+time_user                    : 1430719971.245801
+Total Average                : 23240/438 = 53.06 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430719972.269706
+time_user                    : 1430719972.269767
+Total Average                : 23301/439 = 53.08 us
+Rolling Average (32 samples) : 53.09 us
+
+time_kernel                  : 1430719973.293760
+time_user                    : 1430719973.293805
+Total Average                : 23346/440 = 53.06 us
+Rolling Average (32 samples) : 52.91 us
+
+time_kernel                  : 1430719974.152025
+time_user                    : 1430719974.152092
+Total Average                : 23413/441 = 53.09 us
+Rolling Average (32 samples) : 53.44 us
+
+time_kernel                  : 1430719975.341663
+time_user                    : 1430719975.341723
+Total Average                : 23473/442 = 53.11 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430719976.160978
+time_user                    : 1430719976.161038
+Total Average                : 23533/443 = 53.12 us
+Rolling Average (32 samples) : 54.59 us
+
+time_kernel                  : 1430719977.184961
+time_user                    : 1430719977.185020
+Total Average                : 23592/444 = 53.14 us
+Rolling Average (32 samples) : 54.56 us
+
+time_kernel                  : 1430719978.208890
+time_user                    : 1430719978.208952
+Total Average                : 23654/445 = 53.16 us
+Rolling Average (32 samples) : 54.88 us
+
+time_kernel                  : 1430719979.233136
+time_user                    : 1430719979.233181
+Total Average                : 23699/446 = 53.14 us
+Rolling Average (32 samples) : 54.44 us
+
+time_kernel                  : 1430719980.256893
+time_user                    : 1430719980.256954
+Total Average                : 23760/447 = 53.15 us
+Rolling Average (32 samples) : 55.09 us
+
+time_kernel                  : 1430719981.280946
+time_user                    : 1430719981.281005
+Total Average                : 23819/448 = 53.17 us
+Rolling Average (32 samples) : 55.69 us
+
+time_kernel                  : 1430719982.304838
+time_user                    : 1430719982.304880
+Total Average                : 23861/449 = 53.14 us
+Rolling Average (32 samples) : 55.12 us
+
+time_kernel                  : 1430719983.301756
+time_user                    : 1430719983.301803
+Total Average                : 23908/450 = 53.13 us
+Rolling Average (32 samples) : 54.69 us
+
+time_kernel                  : 1430719984.352840
+time_user                    : 1430719984.352883
+Total Average                : 23951/451 = 53.11 us
+Rolling Average (32 samples) : 54.03 us
+
+time_kernel                  : 1430719985.172119
+time_user                    : 1430719985.172162
+Total Average                : 23994/452 = 53.08 us
+Rolling Average (32 samples) : 53.50 us
+
+time_kernel                  : 1430719986.195702
+time_user                    : 1430719986.195749
+Total Average                : 24041/453 = 53.07 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430719987.220157
+time_user                    : 1430719987.220227
+Total Average                : 24111/454 = 53.11 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430719988.244054
+time_user                    : 1430719988.244113
+Total Average                : 24170/455 = 53.12 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430719989.267563
+time_user                    : 1430719989.267606
+Total Average                : 24213/456 = 53.10 us
+Rolling Average (32 samples) : 52.59 us
+
+time_kernel                  : 1430719990.292034
+time_user                    : 1430719990.292095
+Total Average                : 24274/457 = 53.12 us
+Rolling Average (32 samples) : 52.59 us
+
+time_kernel                  : 1430719991.316043
+time_user                    : 1430719991.316103
+Total Average                : 24334/458 = 53.13 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719992.339588
+time_user                    : 1430719992.339621
+Total Average                : 24367/459 = 53.09 us
+Rolling Average (32 samples) : 53.28 us
+
+time_kernel                  : 1430719993.159276
+time_user                    : 1430719993.159320
+Total Average                : 24411/460 = 53.07 us
+Rolling Average (32 samples) : 52.78 us
+
+time_kernel                  : 1430719994.183437
+time_user                    : 1430719994.183499
+Total Average                : 24473/461 = 53.09 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430719995.207346
+time_user                    : 1430719995.207385
+Total Average                : 24512/462 = 53.06 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430719996.231191
+time_user                    : 1430719996.231229
+Total Average                : 24550/463 = 53.02 us
+Rolling Average (32 samples) : 51.62 us
+
+time_kernel                  : 1430719997.255258
+time_user                    : 1430719997.255320
+Total Average                : 24612/464 = 53.04 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430719998.279485
+time_user                    : 1430719998.279549
+Total Average                : 24676/465 = 53.07 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430719999.303167
+time_user                    : 1430719999.303228
+Total Average                : 24737/466 = 53.08 us
+Rolling Average (32 samples) : 52.94 us
+
+time_kernel                  : 1430720000.327261
+time_user                    : 1430720000.327307
+Total Average                : 24783/467 = 53.07 us
+Rolling Average (32 samples) : 53.00 us
+
+time_kernel                  : 1430720001.265492
+time_user                    : 1430720001.265552
+Total Average                : 24843/468 = 53.08 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430720002.170484
+time_user                    : 1430720002.170556
+Total Average                : 24915/469 = 53.12 us
+Rolling Average (32 samples) : 54.19 us
+
+time_kernel                  : 1430720003.194205
+time_user                    : 1430720003.194249
+Total Average                : 24959/470 = 53.10 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430720004.218421
+time_user                    : 1430720004.218485
+Total Average                : 25023/471 = 53.13 us
+Rolling Average (32 samples) : 53.81 us
+
+time_kernel                  : 1430720005.242333
+time_user                    : 1430720005.242394
+Total Average                : 25084/472 = 53.14 us
+Rolling Average (32 samples) : 54.31 us
+
+time_kernel                  : 1430720006.266496
+time_user                    : 1430720006.266538
+Total Average                : 25126/473 = 53.12 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430720007.313460
+time_user                    : 1430720007.313484
+Total Average                : 25150/474 = 53.06 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430720008.335378
+time_user                    : 1430720008.335440
+Total Average                : 25212/475 = 53.08 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430720009.350829
+time_user                    : 1430720009.350855
+Total Average                : 25238/476 = 53.02 us
+Rolling Average (32 samples) : 51.44 us
+
+time_kernel                  : 1430720010.159833
+time_user                    : 1430720010.159873
+Total Average                : 25278/477 = 52.99 us
+Rolling Average (32 samples) : 50.75 us
+
+time_kernel                  : 1430720011.184058
+time_user                    : 1430720011.184101
+Total Average                : 25321/478 = 52.97 us
+Rolling Average (32 samples) : 50.69 us
+
+time_kernel                  : 1430720012.207428
+time_user                    : 1430720012.207465
+Total Average                : 25358/479 = 52.94 us
+Rolling Average (32 samples) : 49.94 us
+
+time_kernel                  : 1430720013.229603
+time_user                    : 1430720013.229664
+Total Average                : 25419/480 = 52.96 us
+Rolling Average (32 samples) : 50.00 us
+
+time_kernel                  : 1430720014.253541
+time_user                    : 1430720014.253600
+Total Average                : 25478/481 = 52.97 us
+Rolling Average (32 samples) : 50.53 us
+
+time_kernel                  : 1430720015.279538
+time_user                    : 1430720015.279564
+Total Average                : 25504/482 = 52.91 us
+Rolling Average (32 samples) : 49.88 us
+
+time_kernel                  : 1430720016.301567
+time_user                    : 1430720016.301627
+Total Average                : 25564/483 = 52.93 us
+Rolling Average (32 samples) : 50.41 us
+
+time_kernel                  : 1430720017.530758
+time_user                    : 1430720017.530799
+Total Average                : 25605/484 = 52.90 us
+Rolling Average (32 samples) : 50.34 us
+
+time_kernel                  : 1430720018.303857
+time_user                    : 1430720018.303920
+Total Average                : 25668/485 = 52.92 us
+Rolling Average (32 samples) : 50.84 us
+
+time_kernel                  : 1430720019.169000
+time_user                    : 1430720019.169040
+Total Average                : 25708/486 = 52.90 us
+Rolling Average (32 samples) : 49.91 us
+
+time_kernel                  : 1430720020.193225
+time_user                    : 1430720020.193268
+Total Average                : 25751/487 = 52.88 us
+Rolling Average (32 samples) : 49.41 us
+
+time_kernel                  : 1430720021.216870
+time_user                    : 1430720021.216902
+Total Average                : 25783/488 = 52.83 us
+Rolling Average (32 samples) : 49.06 us
+
+time_kernel                  : 1430720022.240806
+time_user                    : 1430720022.240865
+Total Average                : 25842/489 = 52.85 us
+Rolling Average (32 samples) : 49.00 us
+
+time_kernel                  : 1430720023.264818
+time_user                    : 1430720023.264856
+Total Average                : 25880/490 = 52.82 us
+Rolling Average (32 samples) : 48.31 us
+
+time_kernel                  : 1430720024.307798
+time_user                    : 1430720024.307856
+Total Average                : 25938/491 = 52.83 us
+Rolling Average (32 samples) : 49.09 us
+
+time_kernel                  : 1430720025.312696
+time_user                    : 1430720025.312757
+Total Average                : 25999/492 = 52.84 us
+Rolling Average (32 samples) : 49.62 us
+
+time_kernel                  : 1430720026.336740
+time_user                    : 1430720026.336779
+Total Average                : 26038/493 = 52.82 us
+Rolling Average (32 samples) : 48.91 us
+
+time_kernel                  : 1430720027.360737
+time_user                    : 1430720027.360799
+Total Average                : 26100/494 = 52.83 us
+Rolling Average (32 samples) : 49.62 us
+
+time_kernel                  : 1430720028.179909
+time_user                    : 1430720028.179954
+Total Average                : 26145/495 = 52.82 us
+Rolling Average (32 samples) : 49.84 us
+
+time_kernel                  : 1430720029.203949
+time_user                    : 1430720029.203978
+Total Average                : 26174/496 = 52.77 us
+Rolling Average (32 samples) : 48.81 us
+
+time_kernel                  : 1430720030.227940
+time_user                    : 1430720030.228001
+Total Average                : 26235/497 = 52.79 us
+Rolling Average (32 samples) : 48.72 us
+
+time_kernel                  : 1430720031.251932
+time_user                    : 1430720031.251976
+Total Average                : 26279/498 = 52.77 us
+Rolling Average (32 samples) : 48.19 us
+
+time_kernel                  : 1430720032.276061
+time_user                    : 1430720032.276103
+Total Average                : 26321/499 = 52.75 us
+Rolling Average (32 samples) : 48.06 us
+
+time_kernel                  : 1430720033.299893
+time_user                    : 1430720033.299953
+Total Average                : 26381/500 = 52.76 us
+Rolling Average (32 samples) : 48.06 us
+
+time_kernel                  : 1430720034.323942
+time_user                    : 1430720034.324003
+Total Average                : 26442/501 = 52.78 us
+Rolling Average (32 samples) : 47.72 us
+
+time_kernel                  : 1430720035.347838
+time_user                    : 1430720035.347878
+Total Average                : 26482/502 = 52.75 us
+Rolling Average (32 samples) : 47.59 us
+
+time_kernel                  : 1430720036.167056
+time_user                    : 1430720036.167114
+Total Average                : 26540/503 = 52.76 us
+Rolling Average (32 samples) : 47.41 us
+
+time_kernel                  : 1430720037.191055
+time_user                    : 1430720037.191101
+Total Average                : 26586/504 = 52.75 us
+Rolling Average (32 samples) : 46.94 us
+
+time_kernel                  : 1430720038.214705
+time_user                    : 1430720038.214750
+Total Average                : 26631/505 = 52.73 us
+Rolling Average (32 samples) : 47.03 us
+
+time_kernel                  : 1430720039.239096
+time_user                    : 1430720039.239155
+Total Average                : 26690/506 = 52.75 us
+Rolling Average (32 samples) : 48.12 us
+
+time_kernel                  : 1430720040.263021
+time_user                    : 1430720040.263080
+Total Average                : 26749/507 = 52.76 us
+Rolling Average (32 samples) : 48.03 us
+
+time_kernel                  : 1430720041.286579
+time_user                    : 1430720041.286609
+Total Average                : 26779/508 = 52.71 us
+Rolling Average (32 samples) : 48.16 us
+
+time_kernel                  : 1430720042.300158
+time_user                    : 1430720042.300201
+Total Average                : 26822/509 = 52.70 us
+Rolling Average (32 samples) : 48.25 us
+
+time_kernel                  : 1430720043.335054
+time_user                    : 1430720043.335118
+Total Average                : 26886/510 = 52.72 us
+Rolling Average (32 samples) : 48.91 us
+
+time_kernel                  : 1430720044.358709
+time_user                    : 1430720044.358755
+Total Average                : 26932/511 = 52.70 us
+Rolling Average (32 samples) : 49.19 us
+
+time_kernel                  : 1430720045.178200
+time_user                    : 1430720045.178263
+Total Average                : 26995/512 = 52.72 us
+Rolling Average (32 samples) : 49.25 us
+
+time_kernel                  : 1430720046.202345
+time_user                    : 1430720046.202388
+Total Average                : 27038/513 = 52.71 us
+Rolling Average (32 samples) : 48.75 us
+
+time_kernel                  : 1430720047.226324
+time_user                    : 1430720047.226384
+Total Average                : 27098/514 = 52.72 us
+Rolling Average (32 samples) : 49.81 us
+
+time_kernel                  : 1430720048.250330
+time_user                    : 1430720048.250369
+Total Average                : 27137/515 = 52.69 us
+Rolling Average (32 samples) : 49.16 us
+
+time_kernel                  : 1430720049.274318
+time_user                    : 1430720049.274402
+Total Average                : 27221/516 = 52.75 us
+Rolling Average (32 samples) : 50.50 us
+
+time_kernel                  : 1430720050.298344
+time_user                    : 1430720050.298384
+Total Average                : 27261/517 = 52.73 us
+Rolling Average (32 samples) : 49.78 us
+
+time_kernel                  : 1430720051.322340
+time_user                    : 1430720051.322399
+Total Average                : 27320/518 = 52.74 us
+Rolling Average (32 samples) : 50.38 us
+
+time_kernel                  : 1430720052.346205
+time_user                    : 1430720052.346264
+Total Average                : 27379/519 = 52.75 us
+Rolling Average (32 samples) : 50.88 us
+
+time_kernel                  : 1430720053.164840
+time_user                    : 1430720053.164902
+Total Average                : 27441/520 = 52.77 us
+Rolling Average (32 samples) : 51.81 us
+
+time_kernel                  : 1430720054.189521
+time_user                    : 1430720054.189560
+Total Average                : 27480/521 = 52.74 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430720055.213497
+time_user                    : 1430720055.213540
+Total Average                : 27523/522 = 52.73 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430720056.237485
+time_user                    : 1430720056.237547
+Total Average                : 27585/523 = 52.74 us
+Rolling Average (32 samples) : 51.47 us
+
+time_kernel                  : 1430720057.261436
+time_user                    : 1430720057.261497
+Total Average                : 27646/524 = 52.76 us
+Rolling Average (32 samples) : 51.47 us
+
+time_kernel                  : 1430720058.285486
+time_user                    : 1430720058.285546
+Total Average                : 27706/525 = 52.77 us
+Rolling Average (32 samples) : 52.12 us
+
+time_kernel                  : 1430720059.309494
+time_user                    : 1430720059.309554
+Total Average                : 27766/526 = 52.79 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430720060.333607
+time_user                    : 1430720060.333696
+Total Average                : 27855/527 = 52.86 us
+Rolling Average (32 samples) : 53.44 us
+
+time_kernel                  : 1430720061.357447
+time_user                    : 1430720061.357506
+Total Average                : 27914/528 = 52.87 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720062.176858
+time_user                    : 1430720062.176899
+Total Average                : 27955/529 = 52.84 us
+Rolling Average (32 samples) : 53.75 us
+
+time_kernel                  : 1430720063.200089
+time_user                    : 1430720063.200131
+Total Average                : 27997/530 = 52.82 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430720064.151565
+time_user                    : 1430720064.151629
+Total Average                : 28061/531 = 52.85 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720065.248663
+time_user                    : 1430720065.248721
+Total Average                : 28119/532 = 52.86 us
+Rolling Average (32 samples) : 54.31 us
+
+time_kernel                  : 1430720066.283473
+time_user                    : 1430720066.283512
+Total Average                : 28158/533 = 52.83 us
+Rolling Average (32 samples) : 53.62 us
+
+time_kernel                  : 1430720067.296487
+time_user                    : 1430720067.296546
+Total Average                : 28217/534 = 52.84 us
+Rolling Average (32 samples) : 54.22 us
+
+time_kernel                  : 1430720068.320520
+time_user                    : 1430720068.320565
+Total Average                : 28262/535 = 52.83 us
+Rolling Average (32 samples) : 53.81 us
+
+time_kernel                  : 1430720069.344642
+time_user                    : 1430720069.344704
+Total Average                : 28324/536 = 52.84 us
+Rolling Average (32 samples) : 54.31 us
+
+time_kernel                  : 1430720070.163739
+time_user                    : 1430720070.163786
+Total Average                : 28371/537 = 52.83 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720071.187750
+time_user                    : 1430720071.187810
+Total Average                : 28431/538 = 52.85 us
+Rolling Average (32 samples) : 54.41 us
+
+time_kernel                  : 1430720072.211801
+time_user                    : 1430720072.211862
+Total Average                : 28492/539 = 52.86 us
+Rolling Average (32 samples) : 54.47 us
+
+time_kernel                  : 1430720073.235763
+time_user                    : 1430720073.235825
+Total Average                : 28554/540 = 52.88 us
+Rolling Average (32 samples) : 55.47 us
+
+time_kernel                  : 1430720074.259711
+time_user                    : 1430720074.259774
+Total Average                : 28617/541 = 52.90 us
+Rolling Average (32 samples) : 56.09 us
+
+time_kernel                  : 1430720075.283761
+time_user                    : 1430720075.283820
+Total Average                : 28676/542 = 52.91 us
+Rolling Average (32 samples) : 55.94 us
+
+time_kernel                  : 1430720076.307843
+time_user                    : 1430720076.307904
+Total Average                : 28737/543 = 52.92 us
+Rolling Average (32 samples) : 56.41 us
+
+time_kernel                  : 1430720077.151842
+time_user                    : 1430720077.151895
+Total Average                : 28790/544 = 52.92 us
+Rolling Average (32 samples) : 56.09 us
+
+time_kernel                  : 1430720078.355737
+time_user                    : 1430720078.355778
+Total Average                : 28831/545 = 52.90 us
+Rolling Average (32 samples) : 56.03 us
+
+time_kernel                  : 1430720079.174911
+time_user                    : 1430720079.174948
+Total Average                : 28868/546 = 52.87 us
+Rolling Average (32 samples) : 55.31 us
+
+time_kernel                  : 1430720080.198973
+time_user                    : 1430720080.199033
+Total Average                : 28928/547 = 52.88 us
+Rolling Average (32 samples) : 55.97 us
+
+time_kernel                  : 1430720081.223207
+time_user                    : 1430720081.223248
+Total Average                : 28969/548 = 52.86 us
+Rolling Average (32 samples) : 54.62 us
+
+time_kernel                  : 1430720082.247091
+time_user                    : 1430720082.247123
+Total Average                : 29001/549 = 52.83 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720083.270883
+time_user                    : 1430720083.270941
+Total Average                : 29059/550 = 52.83 us
+Rolling Average (32 samples) : 54.34 us
+
+time_kernel                  : 1430720084.294968
+time_user                    : 1430720084.295028
+Total Average                : 29119/551 = 52.85 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720085.318834
+time_user                    : 1430720085.318896
+Total Average                : 29181/552 = 52.86 us
+Rolling Average (32 samples) : 54.38 us
+
+time_kernel                  : 1430720086.342948
+time_user                    : 1430720086.343005
+Total Average                : 29238/553 = 52.87 us
+Rolling Average (32 samples) : 54.94 us
+
+time_kernel                  : 1430720087.161756
+time_user                    : 1430720087.161795
+Total Average                : 29277/554 = 52.85 us
+Rolling Average (32 samples) : 54.81 us
+
+time_kernel                  : 1430720088.186201
+time_user                    : 1430720088.186243
+Total Average                : 29319/555 = 52.83 us
+Rolling Average (32 samples) : 54.19 us
+
+time_kernel                  : 1430720089.152592
+time_user                    : 1430720089.152644
+Total Average                : 29371/556 = 52.83 us
+Rolling Average (32 samples) : 53.91 us
+
+time_kernel                  : 1430720090.233701
+time_user                    : 1430720090.233749
+Total Average                : 29419/557 = 52.82 us
+Rolling Average (32 samples) : 53.53 us
+
+time_kernel                  : 1430720091.258265
+time_user                    : 1430720091.258311
+Total Average                : 29465/558 = 52.80 us
+Rolling Average (32 samples) : 53.09 us
+
+time_kernel                  : 1430720092.282146
+time_user                    : 1430720092.282185
+Total Average                : 29504/559 = 52.78 us
+Rolling Average (32 samples) : 51.53 us
+
+time_kernel                  : 1430720093.305757
+time_user                    : 1430720093.305799
+Total Average                : 29546/560 = 52.76 us
+Rolling Average (32 samples) : 51.00 us
+
+time_kernel                  : 1430720094.330019
+time_user                    : 1430720094.330067
+Total Average                : 29594/561 = 52.75 us
+Rolling Average (32 samples) : 51.22 us
+
+time_kernel                  : 1430720095.154687
+time_user                    : 1430720095.154780
+Total Average                : 29687/562 = 52.82 us
+Rolling Average (32 samples) : 52.81 us
+
+time_kernel                  : 1430720096.173197
+time_user                    : 1430720096.173259
+Total Average                : 29749/563 = 52.84 us
+Rolling Average (32 samples) : 52.75 us
+
+time_kernel                  : 1430720097.197449
+time_user                    : 1430720097.197489
+Total Average                : 29789/564 = 52.82 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430720098.221232
+time_user                    : 1430720098.221293
+Total Average                : 29850/565 = 52.83 us
+Rolling Average (32 samples) : 52.88 us
+
+time_kernel                  : 1430720099.245511
+time_user                    : 1430720099.245551
+Total Average                : 29890/566 = 52.81 us
+Rolling Average (32 samples) : 52.28 us
+
+time_kernel                  : 1430720100.269323
+time_user                    : 1430720100.269386
+Total Average                : 29953/567 = 52.83 us
+Rolling Average (32 samples) : 52.84 us
+
+time_kernel                  : 1430720101.293078
+time_user                    : 1430720101.293112
+Total Average                : 29987/568 = 52.79 us
+Rolling Average (32 samples) : 51.97 us
+
+time_kernel                  : 1430720102.317222
+time_user                    : 1430720102.317284
+Total Average                : 30049/569 = 52.81 us
+Rolling Average (32 samples) : 52.44 us
+
+time_kernel                  : 1430720103.341339
+time_user                    : 1430720103.341400
+Total Average                : 30110/570 = 52.82 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430720104.151390
+time_user                    : 1430720104.151443
+Total Average                : 30163/571 = 52.82 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430720105.184436
+time_user                    : 1430720105.184495
+Total Average                : 30222/572 = 52.84 us
+Rolling Average (32 samples) : 52.12 us
+
+time_kernel                  : 1430720106.208439
+time_user                    : 1430720106.208482
+Total Average                : 30265/573 = 52.82 us
+Rolling Average (32 samples) : 51.50 us
+
+time_kernel                  : 1430720107.232480
+time_user                    : 1430720107.232525
+Total Average                : 30310/574 = 52.80 us
+Rolling Average (32 samples) : 51.06 us
+
+time_kernel                  : 1430720108.151162
+time_user                    : 1430720108.151227
+Total Average                : 30375/575 = 52.83 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430720109.280415
+time_user                    : 1430720109.280453
+Total Average                : 30413/576 = 52.80 us
+Rolling Average (32 samples) : 50.72 us
+
+time_kernel                  : 1430720110.304498
+time_user                    : 1430720110.304559
+Total Average                : 30474/577 = 52.81 us
+Rolling Average (32 samples) : 51.34 us
+
+time_kernel                  : 1430720111.328393
+time_user                    : 1430720111.328454
+Total Average                : 30535/578 = 52.83 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430720112.300084
+time_user                    : 1430720112.300130
+Total Average                : 30581/579 = 52.82 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430720113.171727
+time_user                    : 1430720113.171786
+Total Average                : 30640/580 = 52.83 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430720114.195593
+time_user                    : 1430720114.195655
+Total Average                : 30702/581 = 52.84 us
+Rolling Average (32 samples) : 53.16 us
+
+time_kernel                  : 1430720115.219639
+time_user                    : 1430720115.219696
+Total Average                : 30759/582 = 52.85 us
+Rolling Average (32 samples) : 53.12 us
+
+time_kernel                  : 1430720116.243599
+time_user                    : 1430720116.243638
+Total Average                : 30798/583 = 52.83 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430720117.267546
+time_user                    : 1430720117.267586
+Total Average                : 30838/584 = 52.80 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430720118.291503
+time_user                    : 1430720118.291562
+Total Average                : 30897/585 = 52.82 us
+Rolling Average (32 samples) : 51.84 us
+
+time_kernel                  : 1430720119.315532
+time_user                    : 1430720119.315591
+Total Average                : 30956/586 = 52.83 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430720120.339626
+time_user                    : 1430720120.339686
+Total Average                : 31016/587 = 52.84 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430720121.158749
+time_user                    : 1430720121.158810
+Total Average                : 31077/588 = 52.85 us
+Rolling Average (32 samples) : 53.31 us
+
+time_kernel                  : 1430720122.182762
+time_user                    : 1430720122.182823
+Total Average                : 31138/589 = 52.87 us
+Rolling Average (32 samples) : 53.72 us
+
+time_kernel                  : 1430720123.206441
+time_user                    : 1430720123.206475
+Total Average                : 31172/590 = 52.83 us
+Rolling Average (32 samples) : 53.34 us
+
+time_kernel                  : 1430720124.231263
+time_user                    : 1430720124.231322
+Total Average                : 31231/591 = 52.84 us
+Rolling Average (32 samples) : 53.97 us
+
+time_kernel                  : 1430720125.149533
+time_user                    : 1430720125.149578
+Total Average                : 31276/592 = 52.83 us
+Rolling Average (32 samples) : 54.06 us
+
+time_kernel                  : 1430720126.278860
+time_user                    : 1430720126.278920
+Total Average                : 31336/593 = 52.84 us
+Rolling Average (32 samples) : 54.44 us
+
+time_kernel                  : 1430720127.302669
+time_user                    : 1430720127.302729
+Total Average                : 31396/594 = 52.86 us
+Rolling Average (32 samples) : 53.41 us
+
+time_kernel                  : 1430720128.326791
+time_user                    : 1430720128.326854
+Total Average                : 31459/595 = 52.87 us
+Rolling Average (32 samples) : 53.44 us
+
+time_kernel                  : 1430720129.350774
+time_user                    : 1430720129.350839
+Total Average                : 31524/596 = 52.89 us
+Rolling Average (32 samples) : 54.22 us
+
+time_kernel                  : 1430720130.170010
+time_user                    : 1430720130.170054
+Total Average                : 31568/597 = 52.88 us
+Rolling Average (32 samples) : 53.69 us
+
+time_kernel                  : 1430720131.198298
+time_user                    : 1430720131.198367
+Total Average                : 31637/598 = 52.90 us
+Rolling Average (32 samples) : 54.59 us
+
+time_kernel                  : 1430720132.217429
+time_user                    : 1430720132.217462
+Total Average                : 31670/599 = 52.87 us
+Rolling Average (32 samples) : 53.66 us
+
+time_kernel                  : 1430720133.242267
+time_user                    : 1430720133.242310
+Total Average                : 31713/600 = 52.85 us
+Rolling Average (32 samples) : 53.94 us
+
+time_kernel                  : 1430720134.265925
+time_user                    : 1430720134.265984
+Total Average                : 31772/601 = 52.87 us
+Rolling Average (32 samples) : 53.84 us
+
+time_kernel                  : 1430720135.289062
+time_user                    : 1430720135.289094
+Total Average                : 31804/602 = 52.83 us
+Rolling Average (32 samples) : 52.94 us
+
+time_kernel                  : 1430720136.313904
+time_user                    : 1430720136.313965
+Total Average                : 31865/603 = 52.84 us
+Rolling Average (32 samples) : 53.19 us
+
+time_kernel                  : 1430720137.337990
+time_user                    : 1430720137.338030
+Total Average                : 31905/604 = 52.82 us
+Rolling Average (32 samples) : 52.59 us
+
+time_kernel                  : 1430720138.158511
+time_user                    : 1430720138.158552
+Total Average                : 31946/605 = 52.80 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430720139.180917
+time_user                    : 1430720139.180958
+Total Average                : 31987/606 = 52.78 us
+Rolling Average (32 samples) : 52.41 us
+
+time_kernel                  : 1430720140.205253
+time_user                    : 1430720140.205311
+Total Average                : 32045/607 = 52.79 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430720141.229197
+time_user                    : 1430720141.229237
+Total Average                : 32085/608 = 52.77 us
+Rolling Average (32 samples) : 52.25 us
+
+time_kernel                  : 1430720142.252642
+time_user                    : 1430720142.252700
+Total Average                : 32143/609 = 52.78 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430720143.277124
+time_user                    : 1430720143.277183
+Total Average                : 32202/610 = 52.79 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430720144.301123
+time_user                    : 1430720144.301169
+Total Average                : 32248/611 = 52.78 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430720145.324725
+time_user                    : 1430720145.324768
+Total Average                : 32291/612 = 52.76 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430720146.298731
+time_user                    : 1430720146.298767
+Total Average                : 32327/613 = 52.74 us
+Rolling Average (32 samples) : 50.78 us
+
+time_kernel                  : 1430720147.168478
+time_user                    : 1430720147.168540
+Total Average                : 32389/614 = 52.75 us
+Rolling Average (32 samples) : 50.94 us
+
+time_kernel                  : 1430720148.192359
+time_user                    : 1430720148.192420
+Total Average                : 32450/615 = 52.76 us
+Rolling Average (32 samples) : 51.62 us
+
+time_kernel                  : 1430720149.216151
+time_user                    : 1430720149.216192
+Total Average                : 32491/616 = 52.75 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430720150.240235
+time_user                    : 1430720150.240296
+Total Average                : 32552/617 = 52.76 us
+Rolling Average (32 samples) : 51.72 us
+
+time_kernel                  : 1430720151.264326
+time_user                    : 1430720151.264389
+Total Average                : 32615/618 = 52.78 us
+Rolling Average (32 samples) : 51.84 us
+
+time_kernel                  : 1430720152.288287
+time_user                    : 1430720152.288345
+Total Average                : 32673/619 = 52.78 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430720153.211429
+time_user                    : 1430720153.211470
+Total Average                : 32714/620 = 52.76 us
+Rolling Average (32 samples) : 51.16 us
+
+time_kernel                  : 1430720154.336235
+time_user                    : 1430720154.336295
+Total Average                : 32774/621 = 52.78 us
+Rolling Average (32 samples) : 51.12 us
+
+time_kernel                  : 1430720155.160908
+time_user                    : 1430720155.160956
+Total Average                : 32822/622 = 52.77 us
+Rolling Average (32 samples) : 51.56 us
+
+time_kernel                  : 1430720156.179531
+time_user                    : 1430720156.179590
+Total Average                : 32881/623 = 52.78 us
+Rolling Average (32 samples) : 51.56 us
+
+time_kernel                  : 1430720157.203684
+time_user                    : 1430720157.203744
+Total Average                : 32941/624 = 52.79 us
+Rolling Average (32 samples) : 52.03 us
+
+time_kernel                  : 1430720158.227477
+time_user                    : 1430720158.227523
+Total Average                : 32987/625 = 52.78 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430720159.251668
+time_user                    : 1430720159.251709
+Total Average                : 33028/626 = 52.76 us
+Rolling Average (32 samples) : 51.00 us
+
+time_kernel                  : 1430720160.275605
+time_user                    : 1430720160.275666
+Total Average                : 33089/627 = 52.77 us
+Rolling Average (32 samples) : 50.94 us
+
+time_kernel                  : 1430720161.299432
+time_user                    : 1430720161.299493
+Total Average                : 33150/628 = 52.79 us
+Rolling Average (32 samples) : 50.81 us
+
+time_kernel                  : 1430720162.323435
+time_user                    : 1430720162.323495
+Total Average                : 33210/629 = 52.80 us
+Rolling Average (32 samples) : 51.31 us
+
+time_kernel                  : 1430720163.347525
+time_user                    : 1430720163.347584
+Total Average                : 33269/630 = 52.81 us
+Rolling Average (32 samples) : 51.00 us
+
+time_kernel                  : 1430720164.166802
+time_user                    : 1430720164.166854
+Total Average                : 33321/631 = 52.81 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430720165.190777
+time_user                    : 1430720165.190819
+Total Average                : 33363/632 = 52.79 us
+Rolling Average (32 samples) : 51.56 us
+
+time_kernel                  : 1430720166.214594
+time_user                    : 1430720166.214640
+Total Average                : 33409/633 = 52.78 us
+Rolling Average (32 samples) : 51.16 us
+
+time_kernel                  : 1430720167.238567
+time_user                    : 1430720167.238627
+Total Average                : 33469/634 = 52.79 us
+Rolling Average (32 samples) : 52.03 us
+
+time_kernel                  : 1430720168.263873
+time_user                    : 1430720168.263903
+Total Average                : 33499/635 = 52.75 us
+Rolling Average (32 samples) : 51.06 us
+
+time_kernel                  : 1430720169.286615
+time_user                    : 1430720169.286655
+Total Average                : 33539/636 = 52.73 us
+Rolling Average (32 samples) : 51.06 us
+
+time_kernel                  : 1430720170.296821
+time_user                    : 1430720170.296865
+Total Average                : 33583/637 = 52.72 us
+Rolling Average (32 samples) : 51.16 us
+
+time_kernel                  : 1430720171.334608
+time_user                    : 1430720171.334669
+Total Average                : 33644/638 = 52.73 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430720172.358608
+time_user                    : 1430720172.358649
+Total Average                : 33685/639 = 52.72 us
+Rolling Average (32 samples) : 51.25 us
+
+time_kernel                  : 1430720173.177849
+time_user                    : 1430720173.177911
+Total Average                : 33747/640 = 52.73 us
+Rolling Average (32 samples) : 51.94 us
+
+time_kernel                  : 1430720174.201815
+time_user                    : 1430720174.201878
+Total Average                : 33810/641 = 52.75 us
+Rolling Average (32 samples) : 52.09 us
+
+time_kernel                  : 1430720175.225865
+time_user                    : 1430720175.225909
+Total Average                : 33854/642 = 52.73 us
+Rolling Average (32 samples) : 51.62 us
+
+time_kernel                  : 1430720176.151022
+time_user                    : 1430720176.151071
+Total Average                : 33903/643 = 52.73 us
+Rolling Average (32 samples) : 51.72 us
+
+time_kernel                  : 1430720177.273934
+time_user                    : 1430720177.273998
+Total Average                : 33967/644 = 52.74 us
+Rolling Average (32 samples) : 52.38 us
+
+time_kernel                  : 1430720178.297756
+time_user                    : 1430720178.297815
+Total Average                : 34026/645 = 52.75 us
+Rolling Average (32 samples) : 53.09 us
+
+time_kernel                  : 1430720179.321880
+time_user                    : 1430720179.321941
+Total Average                : 34087/646 = 52.77 us
+Rolling Average (32 samples) : 53.06 us
+
+time_kernel                  : 1430720180.345836
+time_user                    : 1430720180.345896
+Total Average                : 34147/647 = 52.78 us
+Rolling Average (32 samples) : 53.03 us
+
+time_kernel                  : 1430720181.164368
+time_user                    : 1430720181.164412
+Total Average                : 34191/648 = 52.76 us
+Rolling Average (32 samples) : 53.12 us
+
+time_kernel                  : 1430720182.189263
+time_user                    : 1430720182.189302
+Total Average                : 34230/649 = 52.74 us
+Rolling Average (32 samples) : 52.44 us
+
+time_kernel                  : 1430720183.212610
+time_user                    : 1430720183.212656
+Total Average                : 34276/650 = 52.73 us
+Rolling Average (32 samples) : 51.91 us
+
+time_kernel                  : 1430720184.237021
+time_user                    : 1430720184.237086
+Total Average                : 34341/651 = 52.75 us
+Rolling Average (32 samples) : 52.12 us
+
+time_kernel                  : 1430720185.218357
+time_user                    : 1430720185.218386
+Total Average                : 34370/652 = 52.71 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430720186.284996
+time_user                    : 1430720186.285057
+Total Average                : 34431/653 = 52.73 us
+Rolling Average (32 samples) : 51.78 us
+
+time_kernel                  : 1430720187.309002
+time_user                    : 1430720187.309064
+Total Average                : 34493/654 = 52.74 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430720188.332947
+time_user                    : 1430720188.332986
+Total Average                : 34532/655 = 52.72 us
+Rolling Average (32 samples) : 51.59 us
+
+time_kernel                  : 1430720189.356909
+time_user                    : 1430720189.356930
+Total Average                : 34553/656 = 52.67 us
+Rolling Average (32 samples) : 50.38 us
+
+time_kernel                  : 1430720190.176172
+time_user                    : 1430720190.176231
+Total Average                : 34612/657 = 52.68 us
+Rolling Average (32 samples) : 50.78 us
+
+time_kernel                  : 1430720191.199836
+time_user                    : 1430720191.199876
+Total Average                : 34652/658 = 52.66 us
+Rolling Average (32 samples) : 50.75 us
+
+time_kernel                  : 1430720192.229671
+time_user                    : 1430720192.229722
+Total Average                : 34703/659 = 52.66 us
+Rolling Average (32 samples) : 50.44 us
+
+time_kernel                  : 1430720193.248229
+time_user                    : 1430720193.248289
+Total Average                : 34763/660 = 52.67 us
+Rolling Average (32 samples) : 50.41 us
+
+time_kernel                  : 1430720194.271823
+time_user                    : 1430720194.271883
+Total Average                : 34823/661 = 52.68 us
+Rolling Average (32 samples) : 50.41 us
+
+time_kernel                  : 1430720195.296199
+time_user                    : 1430720195.296259
+Total Average                : 34883/662 = 52.69 us
+Rolling Average (32 samples) : 50.44 us
+
+time_kernel                  : 1430720196.320200
+time_user                    : 1430720196.320258
+Total Average                : 34941/663 = 52.70 us
+Rolling Average (32 samples) : 50.62 us
+
+time_kernel                  : 1430720197.343644
+time_user                    : 1430720197.343687
+Total Average                : 34984/664 = 52.69 us
+Rolling Average (32 samples) : 50.66 us
+
+time_kernel                  : 1430720198.163290
+time_user                    : 1430720198.163353
+Total Average                : 35047/665 = 52.70 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430720199.187236
+time_user                    : 1430720199.187298
+Total Average                : 35109/666 = 52.72 us
+Rolling Average (32 samples) : 51.25 us
+
+time_kernel                  : 1430720200.211808
+time_user                    : 1430720200.211851
+Total Average                : 35152/667 = 52.70 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430720201.235308
+time_user                    : 1430720201.235368
+Total Average                : 35212/668 = 52.71 us
+Rolling Average (32 samples) : 52.28 us
+
+time_kernel                  : 1430720202.195305
+time_user                    : 1430720202.195341
+Total Average                : 35248/669 = 52.69 us
+Rolling Average (32 samples) : 52.03 us
+
+time_kernel                  : 1430720203.283362
+time_user                    : 1430720203.283424
+Total Average                : 35310/670 = 52.70 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430720204.307231
+time_user                    : 1430720204.307295
+Total Average                : 35374/671 = 52.72 us
+Rolling Average (32 samples) : 52.78 us
+
+time_kernel                  : 1430720205.331350
+time_user                    : 1430720205.331394
+Total Average                : 35418/672 = 52.71 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430720206.295257
+time_user                    : 1430720206.295297
+Total Average                : 35458/673 = 52.69 us
+Rolling Average (32 samples) : 51.50 us
+
+time_kernel                  : 1430720207.174757
+time_user                    : 1430720207.174786
+Total Average                : 35487/674 = 52.65 us
+Rolling Average (32 samples) : 51.03 us
+
+time_kernel                  : 1430720208.198528
+time_user                    : 1430720208.198588
+Total Average                : 35547/675 = 52.66 us
+Rolling Average (32 samples) : 51.38 us
+
+time_kernel                  : 1430720209.223490
+time_user                    : 1430720209.223530
+Total Average                : 35587/676 = 52.64 us
+Rolling Average (32 samples) : 50.62 us
+
+time_kernel                  : 1430720210.246468
+time_user                    : 1430720210.246529
+Total Average                : 35648/677 = 52.66 us
+Rolling Average (32 samples) : 50.69 us
+
+time_kernel                  : 1430720211.270489
+time_user                    : 1430720211.270527
+Total Average                : 35686/678 = 52.63 us
+Rolling Average (32 samples) : 49.97 us
+
+time_kernel                  : 1430720212.150917
+time_user                    : 1430720212.150968
+Total Average                : 35737/679 = 52.63 us
+Rolling Average (32 samples) : 49.69 us
+
+time_kernel                  : 1430720213.150902
+time_user                    : 1430720213.150955
+Total Average                : 35790/680 = 52.63 us
+Rolling Average (32 samples) : 49.97 us
+
+time_kernel                  : 1430720214.150842
+time_user                    : 1430720214.150888
+Total Average                : 35836/681 = 52.62 us
+Rolling Average (32 samples) : 50.19 us
+
+time_kernel                  : 1430720215.161733
+time_user                    : 1430720215.161807
+Total Average                : 35910/682 = 52.65 us
+Rolling Average (32 samples) : 51.06 us
+
+time_kernel                  : 1430720216.185719
+time_user                    : 1430720216.185757
+Total Average                : 35948/683 = 52.63 us
+Rolling Average (32 samples) : 50.22 us
+
+time_kernel                  : 1430720217.209719
+time_user                    : 1430720217.209764
+Total Average                : 35993/684 = 52.62 us
+Rolling Average (32 samples) : 50.72 us
+
+time_kernel                  : 1430720218.233812
+time_user                    : 1430720218.233877
+Total Average                : 36058/685 = 52.64 us
+Rolling Average (32 samples) : 50.84 us
+
+time_kernel                  : 1430720219.257699
+time_user                    : 1430720219.257757
+Total Average                : 36116/686 = 52.65 us
+Rolling Average (32 samples) : 50.72 us
+
+time_kernel                  : 1430720220.281862
+time_user                    : 1430720220.281922
+Total Average                : 36176/687 = 52.66 us
+Rolling Average (32 samples) : 51.38 us
+
+time_kernel                  : 1430720221.306023
+time_user                    : 1430720221.306086
+Total Average                : 36239/688 = 52.67 us
+Rolling Average (32 samples) : 52.69 us
+
+time_kernel                  : 1430720222.329953
+time_user                    : 1430720222.329996
+Total Average                : 36282/689 = 52.66 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430720223.354380
+time_user                    : 1430720223.354419
+Total Average                : 36321/690 = 52.64 us
+Rolling Average (32 samples) : 52.16 us
+
+time_kernel                  : 1430720224.172949
+time_user                    : 1430720224.173007
+Total Average                : 36379/691 = 52.65 us
+Rolling Average (32 samples) : 52.38 us
+
+time_kernel                  : 1430720225.198227
+time_user                    : 1430720225.198267
+Total Average                : 36419/692 = 52.63 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430720226.220771
+time_user                    : 1430720226.220830
+Total Average                : 36478/693 = 52.64 us
+Rolling Average (32 samples) : 51.72 us
+
+time_kernel                  : 1430720227.244891
+time_user                    : 1430720227.244926
+Total Average                : 36513/694 = 52.61 us
+Rolling Average (32 samples) : 50.94 us
+
+time_kernel                  : 1430720228.150826
+time_user                    : 1430720228.150877
+Total Average                : 36564/695 = 52.61 us
+Rolling Average (32 samples) : 50.72 us
+
+time_kernel                  : 1430720229.292823
+time_user                    : 1430720229.292868
+Total Average                : 36609/696 = 52.60 us
+Rolling Average (32 samples) : 50.78 us
+
+time_kernel                  : 1430720230.151196
+time_user                    : 1430720230.151247
+Total Average                : 36660/697 = 52.60 us
+Rolling Average (32 samples) : 50.41 us
+
+time_kernel                  : 1430720231.342527
+time_user                    : 1430720231.342567
+Total Average                : 36700/698 = 52.58 us
+Rolling Average (32 samples) : 49.72 us
+
+time_kernel                  : 1430720232.163879
+time_user                    : 1430720232.163920
+Total Average                : 36741/699 = 52.56 us
+Rolling Average (32 samples) : 49.66 us
+
+time_kernel                  : 1430720233.186843
+time_user                    : 1430720233.186884
+Total Average                : 36782/700 = 52.55 us
+Rolling Average (32 samples) : 49.06 us
+
+time_kernel                  : 1430720234.208016
+time_user                    : 1430720234.208079
+Total Average                : 36845/701 = 52.56 us
+Rolling Average (32 samples) : 49.91 us
+
+time_kernel                  : 1430720235.232556
+time_user                    : 1430720235.232628
+Total Average                : 36917/702 = 52.59 us
+Rolling Average (32 samples) : 50.22 us
+
+time_kernel                  : 1430720236.257219
+time_user                    : 1430720236.257280
+Total Average                : 36978/703 = 52.60 us
+Rolling Average (32 samples) : 50.12 us
+
+time_kernel                  : 1430720237.280328
+time_user                    : 1430720237.280400
+Total Average                : 37050/704 = 52.63 us
+Rolling Average (32 samples) : 51.00 us
+
+time_kernel                  : 1430720238.304012
+time_user                    : 1430720238.304073
+Total Average                : 37111/705 = 52.64 us
+Rolling Average (32 samples) : 51.66 us
+
+time_kernel                  : 1430720239.328073
+time_user                    : 1430720239.328114
+Total Average                : 37152/706 = 52.62 us
+Rolling Average (32 samples) : 52.03 us
+
+time_kernel                  : 1430720240.351938
+time_user                    : 1430720240.351979
+Total Average                : 37193/707 = 52.61 us
+Rolling Average (32 samples) : 51.44 us
+
+time_kernel                  : 1430720241.171258
+time_user                    : 1430720241.171299
+Total Average                : 37234/708 = 52.59 us
+Rolling Average (32 samples) : 51.47 us
+
+time_kernel                  : 1430720242.198494
+time_user                    : 1430720242.198554
+Total Average                : 37294/709 = 52.60 us
+Rolling Average (32 samples) : 51.44 us
+
+time_kernel                  : 1430720243.221089
+time_user                    : 1430720243.221147
+Total Average                : 37352/710 = 52.61 us
+Rolling Average (32 samples) : 52.06 us
+
+time_kernel                  : 1430720244.242868
+time_user                    : 1430720244.242932
+Total Average                : 37416/711 = 52.62 us
+Rolling Average (32 samples) : 52.47 us
+
+time_kernel                  : 1430720245.267144
+time_user                    : 1430720245.267189
+Total Average                : 37461/712 = 52.61 us
+Rolling Average (32 samples) : 52.22 us
+
+time_kernel                  : 1430720246.290774
+time_user                    : 1430720246.290819
+Total Average                : 37506/713 = 52.60 us
+Rolling Average (32 samples) : 52.19 us
+
+time_kernel                  : 1430720247.315117
+time_user                    : 1430720247.315177
+Total Average                : 37566/714 = 52.61 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430720248.339077
+time_user                    : 1430720248.339139
+Total Average                : 37628/715 = 52.63 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430720249.158473
+time_user                    : 1430720249.158533
+Total Average                : 37688/716 = 52.64 us
+Rolling Average (32 samples) : 52.97 us
+
+time_kernel                  : 1430720250.182696
+time_user                    : 1430720250.182758
+Total Average                : 37750/717 = 52.65 us
+Rolling Average (32 samples) : 52.88 us
+
+time_kernel                  : 1430720251.206333
+time_user                    : 1430720251.206379
+Total Average                : 37796/718 = 52.64 us
+Rolling Average (32 samples) : 52.50 us
+
+time_kernel                  : 1430720252.230313
+time_user                    : 1430720252.230352
+Total Average                : 37835/719 = 52.62 us
+Rolling Average (32 samples) : 51.84 us
+
+time_kernel                  : 1430720253.254841
+time_user                    : 1430720253.254883
+Total Average                : 37877/720 = 52.61 us
+Rolling Average (32 samples) : 51.19 us
+
+time_kernel                  : 1430720254.281823
+time_user                    : 1430720254.281884
+Total Average                : 37938/721 = 52.62 us
+Rolling Average (32 samples) : 51.75 us
+
+time_kernel                  : 1430720255.302188
+time_user                    : 1430720255.302225
+Total Average                : 37975/722 = 52.60 us
+Rolling Average (32 samples) : 51.69 us
+
+time_kernel                  : 1430720256.326472
+time_user                    : 1430720256.326557
+Total Average                : 38060/723 = 52.64 us
+Rolling Average (32 samples) : 52.53 us
+
+time_kernel                  : 1430720257.350381
+time_user                    : 1430720257.350443
+Total Average                : 38122/724 = 52.65 us
+Rolling Average (32 samples) : 53.22 us
+
+time_kernel                  : 1430720258.169517
+time_user                    : 1430720258.169581
+Total Average                : 38186/725 = 52.67 us
+Rolling Average (32 samples) : 53.38 us
+
+time_kernel                  : 1430720259.193576
+time_user                    : 1430720259.193638
+Total Average                : 38248/726 = 52.68 us
+Rolling Average (32 samples) : 54.22 us
+
+time_kernel                  : 1430720260.149272
+time_user                    : 1430720260.149318
+Total Average                : 38294/727 = 52.67 us
+Rolling Average (32 samples) : 54.06 us
+
+time_kernel                  : 1430720261.241555
+time_user                    : 1430720261.241618
+Total Average                : 38357/728 = 52.69 us
+Rolling Average (32 samples) : 54.62 us
+
+time_kernel                  : 1430720262.265458
+time_user                    : 1430720262.265521
+Total Average                : 38420/729 = 52.70 us
+Rolling Average (32 samples) : 55.00 us
+
+time_kernel                  : 1430720263.289512
+time_user                    : 1430720263.289553
+Total Average                : 38461/730 = 52.69 us
+Rolling Average (32 samples) : 55.03 us
+
+time_kernel                  : 1430720264.313321
+time_user                    : 1430720264.313367
+Tota
